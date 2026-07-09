@@ -133,6 +133,14 @@ nav,.main-nav{gap:22px!important;font-weight:600!important}
 .card,.collection-card,.category-card,.post-card{border-radius:18px!important;background:linear-gradient(180deg,#fff,var(--dna-soft))!important}
 .site-footer{background:linear-gradient(135deg,var(--dna-ink),#4b2e39)!important}
 
+
+.site-header{display:grid!important;grid-template-columns:180px 1fr!important;align-items:start!important}
+.site-header nav{justify-content:flex-end!important;border-left:1px solid var(--dna-line);padding-left:28px!important}
+.hero{grid-template-columns:.72fr 1.28fr!important}
+.hero-copy{padding-left:4vw!important}
+.category-grid,.product-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+.category-card,.product-card{min-height:260px}
+
 @media (max-width:980px){
   .hero,.split,.feature-row,.intro-grid,.story-grid,.form-section,.split-section,.article-layout{grid-template-columns:1fr!important}
   .services-grid,.solution-grid,.category-grid,.collection-grid,.post-grid,.article-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important}
