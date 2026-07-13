@@ -245,6 +245,100 @@ h4,
   line-height: 1.25;
 }
 
+/* Lovable's interior-page hero is deliberately different from the homepage. */
+.inner-hero {
+  grid-template-columns: 1.1fr .9fr;
+  width: 100%;
+  max-width: none;
+  min-height: 760px;
+  padding-inline: max(40px, calc((100vw - 1280px) / 2 + 40px));
+  background:
+    radial-gradient(circle at 13% 18%, rgba(245, 231, 236, .75), transparent 34%),
+    linear-gradient(135deg, rgba(245, 231, 236, .52), var(--background) 58%);
+  border-bottom: 1px solid var(--border);
+}
+
+.inner-hero h1 {
+  font-size: clamp(52px, 5vw, 64px);
+  line-height: .98;
+}
+
+.inner-hero .hero-editorial {
+  min-height: 540px;
+  isolation: isolate;
+}
+
+.inner-hero .hero-editorial img {
+  position: absolute;
+  left: 0;
+  top: 8%;
+  z-index: 1;
+  display: block;
+  width: 58%;
+  height: 72%;
+  aspect-ratio: auto;
+  min-height: 0;
+  opacity: 0;
+}
+
+.inner-hero .hero-editorial::before,
+.inner-hero .hero-editorial::after,
+.inner-hero .hero-badge {
+  position: absolute;
+  overflow: hidden;
+  border: 0;
+  box-shadow: 0 24px 48px -22px rgba(57, 46, 50, .35);
+}
+
+.inner-hero .hero-editorial::before,
+.inner-hero .hero-editorial::after {
+  content: "";
+}
+
+.inner-hero .hero-editorial::before {
+  left: 0;
+  top: 8%;
+  z-index: 1;
+  width: 58%;
+  height: 72%;
+  border-radius: 24px;
+  background:
+    radial-gradient(ellipse 34% 42% at 50% 50%, transparent 94%, rgba(255,255,255,.42) 96%, transparent 99%),
+    linear-gradient(135deg, #e7c6d1, #aa7387);
+}
+
+.inner-hero .hero-editorial::after {
+  right: 4%;
+  top: 0;
+  z-index: 2;
+  width: 40%;
+  height: 48%;
+  border-radius: 24px;
+  background:
+    radial-gradient(ellipse 34% 42% at 50% 50%, transparent 94%, rgba(255,255,255,.42) 96%, transparent 99%),
+    linear-gradient(135deg, #ddd3d0, #786f72);
+}
+
+.inner-hero .hero-badge {
+  right: 14%;
+  bottom: 0;
+  left: auto;
+  z-index: 3;
+  width: 46%;
+  height: 38%;
+  min-width: 0;
+  padding: 0;
+  border-radius: 24px;
+  background:
+    radial-gradient(ellipse 34% 42% at 50% 50%, transparent 94%, rgba(255,255,255,.42) 96%, transparent 99%),
+    linear-gradient(135deg, #efcbbd, #c88f7a);
+}
+
+.inner-hero .hero-badge span,
+.inner-hero .hero-badge strong {
+  display: none;
+}
+
 .section {
   padding: 80px max(20px, calc((100vw - 1280px) / 2 + 40px));
 }
@@ -276,6 +370,18 @@ h4,
 .lp-prose {
   max-width: 768px;
   margin-inline: auto;
+}
+
+.lp-prose {
+  padding: 80px 40px;
+}
+
+.lp-prose > p:first-child {
+  margin-top: 0;
+}
+
+.lp-prose > p:last-child {
+  margin-bottom: 0;
 }
 
 .editorial {
@@ -449,8 +555,21 @@ h4,
   }
 
   .site-header nav {
-    overflow-x: auto;
-    padding-top: 12px;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    justify-content: center;
+    gap: 4px 8px;
+    overflow: visible;
+    padding-top: 14px;
+  }
+
+  .site-header nav a {
+    padding: 7px 9px;
+    text-align: center;
+  }
+
+  .site-header .nav-cta {
+    margin-left: 0;
   }
 
   .hero,
@@ -461,6 +580,16 @@ h4,
 
   .hero {
     padding: 64px 28px 76px;
+  }
+
+  .inner-hero {
+    min-height: 0;
+    padding-inline: 28px;
+    padding-block: 72px;
+  }
+
+  .inner-hero .hero-editorial {
+    display: none;
   }
 
   .hero-editorial {
@@ -478,12 +607,26 @@ h4,
 
 @media (max-width: 620px) {
   .site-header nav {
-    justify-content: flex-start;
-    font-size: 13px;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .site-header nav a {
+    min-width: 0;
+    padding: 7px 4px;
+  }
+
+  .site-header .nav-cta {
+    padding: 8px 10px;
   }
 
   .hero {
     padding: 48px 18px 64px;
+  }
+
+  .inner-hero {
+    padding-inline: 18px;
   }
 
   .hero h1 {
@@ -519,6 +662,10 @@ h4,
   }
 
   .editorial {
+    padding: 56px 18px;
+  }
+
+  .lp-prose {
     padding: 56px 18px;
   }
 
