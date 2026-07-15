@@ -1,0 +1,34 @@
+{
+  "domain": "begosmujerbonita.com",
+  "company": "Begosmujerbonita Perfums Dubai",
+  "market": "Calp, Alicante, Spain",
+  "language": "Español",
+  "runs": [
+    {
+      "run_at": "2026-07-15T04:11:56+02:00",
+      "keyword": "mejores perfumes árabes para mujer",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-para-mujer",
+      "title": "Mejores perfumes árabes para mujer: 7 opciones para elegir con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-mujer/",
+      "status": "drafted_pending_deploy",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume article covers how to choose perfumes and ambientadores; no existing article targets a BOFU listicle for mejores perfumes árabes para mujer."
+      },
+      "serp_observations": [
+        "Intent is commercial/BOFU: listicles, affiliate media, ecommerce listings and product-led pages dominate.",
+        "Top relevant pages emphasize rankings, viral Lattafa references, long-lasting/dulce modifiers and gift suitability.",
+        "Common gaps: little local buying context, weak cautions about blind buying, limited explanation by use case and few warnings about authenticity or over-applying intense scents.",
+        "Article structure chosen: direct answer, comparison table, seven-option listicle, buying checklist and FAQs."
+      ],
+      "sources": [
+        "https://lattafa.com/product/yara/",
+        "https://lattafa.com/product/ajwad/",
+        "https://lattafa.com/product/khamrah-qahwa/",
+        "https://elpais.com/escaparate/2024-08-21/perfume-mujer-lattafa-yara.html"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-mujer.jpg"
+    }
+  ]
+}
