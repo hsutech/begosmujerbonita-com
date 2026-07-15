@@ -11,7 +11,23 @@
       "slug": "mejores-perfumes-arabes-para-mujer",
       "title": "Mejores perfumes árabes para mujer: 7 opciones para elegir con criterio",
       "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-mujer/",
-      "status": "drafted_pending_deploy",
+      "status": "published",
+      "published_at": "2026-07-15T04:16:48+02:00",
+      "article_commit": "09fbaa8",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-07-15T04:16:48+02:00",
+        "checks": [
+          "Final URL returned HTTP 200",
+          "Expected H1 present",
+          "Canonical matched final URL",
+          "Open Graph image referenced final image",
+          "Featured image returned HTTP 200",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Local desktop and mobile render checks passed without detected overflow"
+        ]
+      },
       "canibalization_check": {
         "result": "clear",
         "notes": "Existing perfume article covers how to choose perfumes and ambientadores; no existing article targets a BOFU listicle for mejores perfumes árabes para mujer."
