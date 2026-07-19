@@ -53,7 +53,7 @@
       "slug": "mejores-perfumes-de-dubai-para-mujer",
       "title": "Mejores perfumes de Dubai para mujer: 7 opciones con criterio",
       "url": "https://begosmujerbonita.com/blog/mejores-perfumes-de-dubai-para-mujer/",
-      "status": "draft_pending_deploy_verification",
+      "status": "published",
       "canibalization_check": {
         "result": "clear",
         "notes": "Existing article targets generic 'mejores perfumes árabes para mujer'. This article narrows the intent to Dubai/UAE brands, exact Dubai framing, and purchase criteria for the Google ES / Calp-Alicante SERP. Slug and H1 are distinct."
@@ -74,7 +74,24 @@
         "https://lattafa.com/product/ajwad/",
         "https://lattafa.com/product/khamrah-qahwa/"
       ],
-      "asset": "src/assets/mejores-perfumes-dubai-mujer.jpg"
+      "asset": "src/assets/mejores-perfumes-dubai-mujer.jpg",
+      "published_at": "2026-07-19T02:22:00+02:00",
+      "article_commit": "b4bce56",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-07-19T02:22:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final image",
+          "Featured image returned HTTP 200 image/jpeg",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Local production build completed",
+          "Local and live desktop/mobile render checks passed; mobile table scroll is contained"
+        ]
+      }
     }
   ]
 }
