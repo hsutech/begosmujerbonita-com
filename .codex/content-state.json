@@ -45,6 +45,36 @@
         "https://elpais.com/escaparate/2024-08-21/perfume-mujer-lattafa-yara.html"
       ],
       "asset": "src/assets/mejores-perfumes-arabes-mujer.jpg"
+    },
+    {
+      "run_at": "2026-07-19T02:00:00+02:00",
+      "keyword": "mejores perfumes de Dubai para mujer",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-de-dubai-para-mujer",
+      "title": "Mejores perfumes de Dubai para mujer: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-de-dubai-para-mujer/",
+      "status": "draft_pending_deploy_verification",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing article targets generic 'mejores perfumes árabes para mujer'. This article narrows the intent to Dubai/UAE brands, exact Dubai framing, and purchase criteria for the Google ES / Calp-Alicante SERP. Slug and H1 are distinct."
+      },
+      "serp_observations": [
+        "Intent is commercial/BOFU: ranking pages, brand comparison guides and product fiches dominate results for Dubai/UAE women's perfumes.",
+        "Relevant top pages use listicle structures with 7-10 products, comparison tables, quick answers and notes/performance summaries.",
+        "Common entities include Lattafa, Afnan, Armaf, Yara, Opulent Dubai, Modest Deux, Rare, Club de Nuit Woman, Ajwad and Khamrah Qahwa.",
+        "SERP gaps: many pages blur Dubai vs UAE, overstate longevity or 'best' claims, and give weak cautions about blind buys, climate and counterfeit risk.",
+        "Chosen angle: seven-option BOFU comparison by use case, with precise brand-source notes and local Mediterranean buying cautions."
+      ],
+      "sources": [
+        "https://lattafa.com/product/yara/",
+        "https://lattafa.com/product/opulent-dubai/",
+        "https://afnan.com/products/modest-deux",
+        "https://us.afnan.com/products/rare",
+        "https://armaf.com/products/club-de-nuit-woman2",
+        "https://lattafa.com/product/ajwad/",
+        "https://lattafa.com/product/khamrah-qahwa/"
+      ],
+      "asset": "src/assets/mejores-perfumes-dubai-mujer.jpg"
     }
   ]
 }
