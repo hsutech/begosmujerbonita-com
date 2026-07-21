@@ -92,6 +92,56 @@
           "Local and live desktop/mobile render checks passed; mobile table scroll is contained"
         ]
       }
+    },
+    {
+      "run_at": "2026-07-21T12:16:16+02:00",
+      "keyword": "Logística para ecommerce de perfumes: embalaje, trazabilidad, envíos y devoluciones",
+      "priority": "Extra campaign",
+      "slug": "logistica-ecommerce-perfumes-embalaje-trazabilidad-envios-devoluciones",
+      "title": "Logística para ecommerce de perfumes: embalaje, trazabilidad, envíos y devoluciones",
+      "url": "https://begosmujerbonita.com/blog/logistica-ecommerce-perfumes-embalaje-trazabilidad-envios-devoluciones/",
+      "status": "published",
+      "extra_campaign": true,
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume URLs target consumer buying guides for Arabic/Dubai perfumes and ambientadores. This article targets merchant operations for perfume ecommerce logistics, packaging, traceability, shipping communication and returns, so it avoids cannibalizing the normal editorial queue."
+      },
+      "serp_observations": [
+        "Spanish SERP intent is mixed informational/commercial: fulfillment providers, ecommerce logistics guides, packaging advice and carrier dangerous-goods pages appear around perfume shipping and operations.",
+        "Common gaps: many pages discuss generic fulfillment without perfume-specific fragility, leakage prevention, customer communication or return workflows.",
+        "Carrier and regulatory sources emphasize that perfume shipping cannot be treated as ordinary parcels in every route; classification, packaging and transport conditions must be validated with the operator.",
+        "Chosen angle: practical beauty/perfume ecommerce operations guide with packaging, traceability, operating-model comparison, cautious shipping discussion and returns workflow."
+      ],
+      "sources": [
+        "https://www.cubbo.com/",
+        "https://www.cubbo.com/fulfillment",
+        "https://www.iata.org/en/programs/cargo/dgr/faq/",
+        "https://shipping.amazon.es/Funcionalidades/servicios-de-envio-de-mercancias-peligrosas",
+        "https://europa.eu/youreurope/citizens/consumers/shopping/shopping-consumer-rights/index_en.htm"
+      ],
+      "asset": "src/assets/logistica-ecommerce-perfumes-embalaje.png",
+      "published_at": "2026-07-21T12:16:16+02:00",
+      "article_commit": "bfef433",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-07-21T12:16:03+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on the custom domain",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final image",
+          "Featured image returned HTTP 200 image/png and matched expected PNG dimensions",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Article schema, Breadcrumb schema and visible FAQ schema present",
+          "Local production build completed successfully"
+        ],
+        "deployment_checks": [
+          "Check 1: article path returned old homepage content before propagation",
+          "Check 2: cache-busted article URL returned expected H1 and canonical",
+          "Check 3: normal article URL, blog listing, sitemap and image were verified"
+        ]
+      }
     }
   ]
 }
