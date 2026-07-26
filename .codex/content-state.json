@@ -142,6 +142,52 @@
           "Check 3: normal article URL, blog listing, sitemap and image were verified"
         ]
       }
+    },
+    {
+      "run_at": "2026-07-26T17:13:36+02:00",
+      "keyword": "Qué llevar en la maleta para viajar a Dubai: perfumes, ropa y calzado cómodo",
+      "priority": "Extra campaign",
+      "slug": "que-llevar-maleta-viajar-dubai-perfumes-ropa-calzado-comodo",
+      "title": "Qué llevar en la maleta para viajar a Dubai: perfumes, ropa y calzado cómodo",
+      "url": "https://begosmujerbonita.com/blog/que-llevar-maleta-viajar-dubai-perfumes-ropa-calzado-comodo/",
+      "status": "local_verified",
+      "extra_campaign": true,
+      "required_anchor": {
+        "text": "calzado barefoot",
+        "url": "https://lejanbrand.com/"
+      },
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Dubai URLs target perfume purchase comparisons and sweet Arabic perfume intent. This article targets travel packing for Dubai with perfumes, modest clothing, cabin liquid rules, sun protection and comfortable footwear, so it does not cannibalize the normal editorial queue."
+      },
+      "serp_observations": [
+        "Spanish SERP intent is informational travel-prep: official Visit Dubai clothing guidance, travel checklist pages, airline/customs rules and packing-list articles dominate.",
+        "Common sections include climate-sensitive clothing, modesty expectations, beachwear, airport liquids, medication/customs cautions, comfortable walking shoes and adapters.",
+        "SERP gaps: many pages treat clothes generically, omit perfume packing detail, overlook air-conditioning layers and give weak footwear selection criteria for long walking days.",
+        "Chosen angle: boutique-friendly packing guide for Spanish readers, balancing perfumes, outfits, modesty, practical footwear and cautious product mentions without turning the article into a Lejan review."
+      ],
+      "sources": [
+        "https://www.visitdubai.com/es/articles/what-to-wear-in-dubai-clothing-guide",
+        "https://dubaiairports.ae/information/security-customs",
+        "https://www.emirates.com/us/english/before-you-fly/travel/dangerous-goods-policy/",
+        "https://lejanbrand.com/"
+      ],
+      "asset": "src/assets/maleta-dubai-perfumes-ropa-calzado-comodo.jpg",
+      "published_at": null,
+      "article_commit": null,
+      "verification": {
+        "status": "local_verified",
+        "checked_at": "2026-07-26T17:16:42+02:00",
+        "checks": [
+          "Local SEO/content audit passed: 2030 words, one H1, canonical, Article schema, Breadcrumb schema and visible FAQ schema",
+          "Required anchor text appeared exactly once and linked to https://lejanbrand.com/",
+          "Four external links present, including current official Dubai/Airline sources and Lejan official facts",
+          "Featured image generated with built-in image_gen, saved in project assets and copied by build",
+          "npm run build completed successfully",
+          "Local static HTTP check returned 200 for article page and featured image",
+          "Blog index and sitemap contained the article locally"
+        ]
+      }
     }
   ]
 }
