@@ -150,7 +150,7 @@
       "slug": "que-llevar-maleta-viajar-dubai-perfumes-ropa-calzado-comodo",
       "title": "Qué llevar en la maleta para viajar a Dubai: perfumes, ropa y calzado cómodo",
       "url": "https://begosmujerbonita.com/blog/que-llevar-maleta-viajar-dubai-perfumes-ropa-calzado-comodo/",
-      "status": "local_verified",
+      "status": "published",
       "extra_campaign": true,
       "required_anchor": {
         "text": "calzado barefoot",
@@ -173,19 +173,25 @@
         "https://lejanbrand.com/"
       ],
       "asset": "src/assets/maleta-dubai-perfumes-ropa-calzado-comodo.jpg",
-      "published_at": null,
-      "article_commit": null,
+      "published_at": "2026-07-26T17:20:10+02:00",
+      "article_commit": "46bfa84",
       "verification": {
-        "status": "local_verified",
-        "checked_at": "2026-07-26T17:16:42+02:00",
+        "status": "verified",
+        "checked_at": "2026-07-26T17:20:10+02:00",
         "checks": [
-          "Local SEO/content audit passed: 2030 words, one H1, canonical, Article schema, Breadcrumb schema and visible FAQ schema",
-          "Required anchor text appeared exactly once and linked to https://lejanbrand.com/",
-          "Four external links present, including current official Dubai/Airline sources and Lejan official facts",
-          "Featured image generated with built-in image_gen, saved in project assets and copied by build",
-          "npm run build completed successfully",
-          "Local static HTTP check returned 200 for article page and featured image",
-          "Blog index and sitemap contained the article locally"
+          "Final URL returned HTTP 200 on the custom domain",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final image",
+          "Featured image returned HTTP 200 image/jpeg",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Article schema, Breadcrumb schema and visible FAQ schema present",
+          "Local production build completed successfully",
+          "Local static HTTP check returned 200 for article page and featured image"
+        ],
+        "deployment_checks": [
+          "Check 1: custom-domain article, image, blog listing and sitemap verified after push"
         ]
       }
     }
