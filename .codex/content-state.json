@@ -94,6 +94,63 @@
       }
     },
     {
+      "run_at": "2026-07-27T04:00:00+02:00",
+      "keyword": "mejores perfumes árabes dulces",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-dulces",
+      "title": "Mejores perfumes árabes dulces: 7 opciones para acertar sin empalago",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-dulces/",
+      "status": "published",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume guides target generic Arabic perfumes and Dubai/UAE perfumes. This article narrows the intent to sweet/gourmand Arabic perfumes, separates sweet profiles by vanilla, caramel, dates, cacao, tonka, oud and use case, and uses a distinct slug and H1."
+      },
+      "serp_observations": [
+        "2026-07-27 recheck: Google ES-style results still show BOFU/commercial intent, mixing product fiches, perfume-shop pages and listicles/rankings for sweet Arabic women's perfumes.",
+        "Top relevant results emphasize Lattafa Yara/Yara Candy, Eclaire, Khamrah, Nebras, Raghba and Shaghaf Oud Tonka, with frequent use of 7-10 item rankings, product notes, shop CTAs and short buying advice.",
+        "Competitor coverage often relies on broad claims such as sweet, intense or long-lasting without separating type of sweetness, climate, occasion, blind-buy risk or official note sources.",
+        "Final angle: seven-option BOFU comparison by sweetness profile and use case, using official note sources, local Mediterranean cautions and no invented prices, testing, ratings or personal reviews."
+      ],
+      "sources": [
+        "https://www.notino.es/lattafa/yara/",
+        "https://www.notino.es/lattafa/yara-candy-eau-de-parfum-para-mujer/p-16269354/",
+        "https://www.uncomo.com/belleza/articulo/los-mejores-perfumes-arabes-de-mujer-estos-son-los-mas-vendidos-55229.html",
+        "https://fraganc.com/en/node/255",
+        "https://perfumarab.com/mejores-perfumes-arabes-2026-top-para-mujer-hombre-y-unisex-perfumarab/",
+        "https://lattafa-usa.com/products/lattafa-eclaire-eau-de-parfum-for-women",
+        "https://www.lattafa-usa.com/products/yara-candy",
+        "https://www.lattafaindia.com/products/pride-nebras",
+        "https://lattafa.com/product/khamrah/",
+        "https://lattafa.com/product/raghba/",
+        "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+        "https://lattafa.com/product/ajwad/"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-dulces-boutique.jpg",
+      "published_at": "2026-07-27T04:15:26+02:00",
+      "article_commit": "d2ef25d",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-07-27T04:15:26+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on the custom domain after deployment propagation",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final featured image",
+          "Featured image returned HTTP 200 image/jpeg and matched expected dimensions 1672x941",
+          "Blog index linked the article and showed 27 de julio de 2026",
+          "Sitemap contained the article URL",
+          "Article schema and visible date used 2026-07-27",
+          "Local SEO/content audit passed: 1864 words, one H1, canonical, OG image, Article schema, FAQ schema, alt text, internal links and external links",
+          "Clean Eleventy build to /private/tmp/begos-build-20260727-0405 completed successfully",
+          "Browser render checks passed at 1366x900 and 390x844: H1 visible, hero image loaded, no page-level horizontal overflow, comparison table contained"
+        ],
+        "deployment_checks": [
+          "Check 1: custom domain still served old homepage fallback for article path, blog, sitemap and image",
+          "Check 2: custom-domain article, image, blog listing and sitemap verified after propagation"
+        ]
+      }
+    },
+    {
       "run_at": "2026-07-21T12:16:16+02:00",
       "keyword": "Logística para ecommerce de perfumes: embalaje, trazabilidad, envíos y devoluciones",
       "priority": "Extra campaign",
