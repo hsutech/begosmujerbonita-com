@@ -251,6 +251,63 @@
           "Check 1: custom-domain article, image, blog listing and sitemap verified after push"
         ]
       }
+    },
+    {
+      "run_at": "2026-07-29T09:15:00+02:00",
+      "keyword": "mejores perfumes árabes que duran todo el día",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-que-duran-todo-el-dia",
+      "title": "Mejores perfumes árabes que duran todo el día: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-que-duran-todo-el-dia/",
+      "status": "published",
+      "published_at": "2026-07-29T09:15:00+02:00",
+      "article_commit": "9a371b8",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing articles target generic Arabic perfumes for women, Dubai/UAE perfumes and sweet/gourmand perfumes. This article narrows the intent to long-lasting/all-day presence, base notes, application method, climate cautions and realistic performance claims, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "Google ES-style results for long-lasting Arabic perfumes for women are BOFU/commercial: ecommerce categories, shop collection pages and 8-10 item listicles dominate.",
+        "Relevant pages emphasize Lattafa, Swiss Arabian, Al Haramain, Rasasi, Armaf and Afnan, with repeated entities such as oud, amber, musk, vanilla, tonka, woods, resins, praline and gourmand notes.",
+        "Common structures include quick ranking, comparison table, product notes, buying advice, FAQs and claims around long duration or all-day wear.",
+        "SERP gaps: many pages promise fixed hours without qualifying skin type, climate, concentration, application or olfactory adaptation; final angle uses official note sources and conservative language instead of invented tests, prices or reviews."
+      ],
+      "sources": [
+        "https://www.sabina.com/es/864-perfumes-arabes-para-mujer",
+        "https://www.perfumesclub.com/es/perfume/mujer/perfumes-arabes/fst/",
+        "https://lujofragancias.com/perfumes-arabes-catalogo/los-10-mejores-perfumes-arabes-de-larga-duracion/",
+        "https://lattafa.com/product/khamrah-qahwa/",
+        "https://lattafa.com/product/nebras/",
+        "https://lattafa.com/product/ajwad/",
+        "https://lattafa.com/product/yara/",
+        "https://us.swissarabian.com/products/shaghaf-oud-3",
+        "https://shop.alharamainperfumes.com/default/amber-oud-gold-edition.html",
+        "https://rasasistore.com/products/la-yuqawam-pour-femme",
+        "https://perfumesociety.org/discover-perfume/an-introduction/faq/",
+        "https://www.ulta.com/discover/beauty-education/how-to-make-fragrance-last-longer"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-duran-todo-el-dia.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-07-29T09:15:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on the custom domain",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final featured image",
+          "Featured image returned HTTP 200 image/jpeg and matched expected size 481054 bytes",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Article schema and FAQ schema present and valid JSON-LD",
+          "SEO/content audit passed: 2099 words, one H1, canonical, OG image, alt text, internal links, external links and no fabricated duration claims",
+          "npm run build completed successfully",
+          "Local desktop/mobile render checks passed: H1 visible, image loaded, no page-level horizontal overflow, comparison table contained",
+          "Live desktop/mobile render checks passed: H1 visible, image loaded, no page-level horizontal overflow, comparison table contained and mobile table scrolls inside wrapper"
+        ],
+        "deployment_checks": [
+          "Check 1: custom-domain article, image, blog listing and sitemap verified after push"
+        ]
+      }
     }
   ]
 }
