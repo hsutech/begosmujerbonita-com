@@ -308,6 +308,65 @@
           "Check 1: custom-domain article, image, blog listing and sitemap verified after push"
         ]
       }
+    },
+    {
+      "run_at": "2026-08-04T13:25:06+02:00",
+      "keyword": "mejores equivalencias de perfumes árabes",
+      "priority": "Alta",
+      "slug": "mejores-equivalencias-de-perfumes-arabes",
+      "title": "Mejores equivalencias de perfumes árabes: 7 alternativas con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-equivalencias-de-perfumes-arabes/",
+      "status": "published",
+      "published_at": "2026-08-04T13:25:06+02:00",
+      "article_commit": "3db2eba",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume articles target generic Arabic perfumes for women, Dubai/UAE perfumes, sweet/gourmand perfumes and all-day longevity. This article targets equivalences/dupes by family, confidence level and buying cautions, with a distinct slug, H1 and comparison method."
+      },
+      "serp_observations": [
+        "Google ES-style results for 'mejores equivalencias de perfumes árabes' are BOFU/commercial: dupe databases, shop/blog tables, Lattafa equivalence pages and listicles dominate.",
+        "Top relevant pages use tables or databases mapping Arabic perfumes to designer/niche references, often with many products and short clone/similarity notes.",
+        "Common entities include Lattafa, Maison Alhambra, Afnan, Armaf, Yara, Eclaire, Nebras, Khamrah, Ajwad, 9 PM, Club de Nuit Woman, Baccarat Rouge 540, Bianco Latte and designer/niche originals.",
+        "SERP gaps: many pages overstate clone exactness, mix high-confidence and weak comparisons, or provide little buyer-fit guidance by family, climate, skin and blind-buy risk. Final angle uses cautious equivalence language, official note sources and no invented prices, reviews or similarity percentages."
+      ],
+      "sources": [
+        "https://www.perfumesdupes.com/marca/lattafa-perfumes",
+        "https://loweelo.com/blogs/news/perfumes-arabes-dupes-2025",
+        "https://equivalenzaprofumi.com/es/equivalencias-lattafa/",
+        "https://lattafa.com/product/eclaire/",
+        "https://lattafa.com/product/nebras/",
+        "https://lattafa.com/product/khamrah/",
+        "https://armaf.com/products/club-de-nuit-woman2",
+        "https://lattafa.com/product/ajwad/",
+        "https://us.afnan.com/products/9-pm",
+        "https://lattafa.com/product/yara/"
+      ],
+      "asset": "src/assets/mejores-equivalencias-perfumes-arabes-boutique.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-04T13:25:06+02:00",
+        "checks": [
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for commit 3db2eba",
+          "Final custom-domain URL returned HTTP 200 on the normal article URL",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final featured image",
+          "Featured image returned HTTP 200 image/jpeg",
+          "Blog index linked the article and showed 4 de agosto de 2026",
+          "Sitemap contained the article URL",
+          "Article schema and FAQ schema parsed as valid JSON-LD locally",
+          "SEO/content audit passed locally: 1923 words, one H1, canonical, OG image, alt text, internal links and external source links",
+          "Local static HTTP verification passed for article, image, blog and sitemap"
+        ],
+        "limitations": [
+          "Local npm run build and direct Eleventy commands were stopped after hanging without output; GitHub Actions npm run build completed successfully in deployment.",
+          "Local Playwright render check could not run because the bundled Chromium executable was not installed; verification used HTTP/HTML checks instead."
+        ],
+        "deployment_checks": [
+          "Check 1: custom domain still served old fallback for article path, image, blog and sitemap immediately after push.",
+          "Check 2: GitHub Actions completed successfully; normal article URL, image, blog and sitemap verified after propagation. Cache-busted article/blog query URLs still showed old content, so normal canonical URLs were used for final verification."
+        ]
+      }
     }
   ]
 }
