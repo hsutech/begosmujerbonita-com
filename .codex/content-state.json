@@ -367,6 +367,37 @@
           "Check 2: GitHub Actions completed successfully; normal article URL, image, blog and sitemap verified after propagation. Cache-busted article/blog query URLs still showed old content, so normal canonical URLs were used for final verification."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-08T23:04:35+02:00",
+      "keyword": "crear fondos y conceptos visuales con IA para campañas de perfumes",
+      "slug": "crear-fondos-conceptos-visuales-ia-campanas-perfumes",
+      "title": "Cómo crear fondos y conceptos visuales con IA para campañas de perfumes",
+      "url": "https://begosmujerbonita.com/blog/crear-fondos-conceptos-visuales-ia-campanas-perfumes/",
+      "status": "published",
+      "published_at": "2026-08-08T23:04:35+02:00",
+      "article_commit": "b87447f",
+      "campaign": "Magnific guest-post campaign 2026-08-08",
+      "asset": "src/assets/fondos-conceptos-visuales-ia-perfumes.jpg",
+      "editorial_link": {
+        "anchor": "crear imágenes con IA",
+        "destination": "https://www.magnific.com/ai/image-generator",
+        "count": 1,
+        "followed": true
+      },
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-08T23:04:35+02:00",
+        "workflow": "31278259704 completed_success",
+        "checks": [
+          "Final URL returned HTTP 200",
+          "Expected H1 and canonical matched",
+          "Featured image returned HTTP 200",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Exactly one followed editorial link used the approved anchor and destination"
+        ]
+      }
     }
   ]
 }
