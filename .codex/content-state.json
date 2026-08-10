@@ -452,6 +452,69 @@
           "Local git fetch/pull hung, so remote publication used GitHub contents API on current main."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-10T04:18:41+02:00",
+      "keyword": "mejores perfumes árabes para regalar",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-para-regalar",
+      "title": "Mejores perfumes árabes para regalar: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-regalar/",
+      "status": "published",
+      "published_at": "2026-08-10T04:18:41+02:00",
+      "article_commit": "fd4da25",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Arabic perfume guides target women, Dubai/UAE, sweet/gourmand, all-day longevity, equivalences and opinion-reading intent. This article targets gift selection by recipient, occasion and risk level, with a distinct slug and H1."
+      },
+      "serp_observations": [
+        "Google ES-style results for Arabic perfumes as gifts are BOFU/commercial: shop rankings, personality/budget gift guides and general best-of listicles dominate.",
+        "Relevant comparable pages commonly use 7-10 item lists, comparison tables, product photos, quick recommendation blocks, occasional video and advice by recipient or budget.",
+        "Repeated entities include Lattafa Yara, Eclaire, Khamrah, Fakhar Women, Swiss Arabian Shaghaf Oud/Tonka, Afnan 9 PM and broader sweet, floral, oud and unisex gift profiles.",
+        "SERP gaps: many pages call items safe gifts without separating low-risk, medium-risk and high-risk scent profiles, and many overstate duration or universal appeal. Final angle uses gift-risk segmentation and official note sources."
+      ],
+      "sources": [
+        "https://perfumarab.com/mejores-perfumes-arabes-2026-top-para-mujer-hombre-y-unisex-perfumarab/",
+        "https://www.orientfragance.com/blogs/perfumes-arabes-blog/top-10-perfumes-arabes-femeninos-para-regalar",
+        "https://senziate.com/blogs/perfumes-arabes-1/perfumes-arabes-para-regalar",
+        "https://www.uncomo.com/belleza/articulo/los-mejores-perfumes-arabes-de-mujer-estos-son-los-mas-vendidos-55229.html",
+        "https://fraganc.com/en/node/255",
+        "https://br.my-best.com/22177",
+        "https://www.buscape.com.br/perfume/conteudo/melhor-perfume-arabe-feminino/",
+        "https://lattafa.com/perfume-as-art-unraveling-the-creative-process-behind-lattafas-signature-scents/",
+        "https://lattafa.com/product/eclaire/",
+        "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+        "https://afnan.com/products/9-pm"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-para-regalar.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-10T04:18:41+02:00",
+        "checks": [
+          "Campaign article reverified live before routine selection: HTTP 200, expected H1, canonical, featured image and exactly one followed link with anchor crear imágenes con IA to https://www.magnific.com/ai/image-generator.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for final content commit fd4da25.",
+          "Final custom-domain article URL returned HTTP 200.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Article schema, Breadcrumb schema and FAQ schema parsed as valid JSON-LD locally.",
+          "SEO/content audit passed locally: 2119 article-body words, one H1, canonical, OG image, alt text, 4 editorial internal links and 4 external source links.",
+          "Local static HTTP checks passed for article, image, blog index and sitemap.",
+          "Live browser render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded and no horizontal overflow."
+        ],
+        "limitations": [
+          "Local npm run build hung after starting Eleventy and was stopped; GitHub Actions Build Eleventy site completed successfully remotely.",
+          "Local Playwright package was not installed; final render verification used the Codex in-app browser."
+        ],
+        "deployment_checks": [
+          "Attempt 1 after initial push returned HTTP 200 but served the old homepage fallback for the article path while deployment was still propagating.",
+          "Attempt 2 after first successful deployment verified article, image, blog listing and sitemap, but browser mobile render found 66px horizontal overflow from the article header.",
+          "Final attempt after fd4da25 mobile fix verified HTTP, metadata, discovery surfaces and desktop/mobile render with overflow 0."
+        ]
+      }
     }
   ]
 }
