@@ -515,6 +515,91 @@
           "Final attempt after fd4da25 mobile fix verified HTTP, metadata, discovery surfaces and desktop/mobile render with overflow 0."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-15T04:28:00+02:00",
+      "keyword": "mejores perfumes árabes baratos",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-baratos",
+      "title": "Mejores perfumes árabes baratos: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-baratos/",
+      "status": "published",
+      "published_at": "2026-08-12T10:15:23+02:00",
+      "article_commit": "6477024",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing articles target women, Dubai/UAE, sweet, longevity, equivalences, opinions and gift intent. This article targets budget/value buying intent with distinct slug and H1."
+      },
+      "serp_observations": [
+        "Reconciled during 2026-08-15 run: article was already live before selecting the next routine keyword.",
+        "Live verification passed for HTTP 200, H1, canonical, OG image reference, featured image, blog listing and sitemap."
+      ],
+      "sources": [
+        "https://elixirperfumes.es/blogs/blog/lattafa-vs-armaf-comparativa",
+        "https://detallesconesencia.com/perfumes-arabes-baratos-espana/",
+        "https://lattafa.com/product/mayar/",
+        "https://lattafa-usa.com/products/lattafa-fakhar-eau-de-parfum-for-women",
+        "https://armaf.com/products/club-de-nuit-woman2"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-baratos.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-15T04:02:00+02:00",
+        "checks": [
+          "Campaign Magnific article reverified first: HTTP 200, H1, canonical, image and exactly one followed editorial link with required anchor/destination.",
+          "Budget article final URL returned HTTP 200 before this run selected the next topic.",
+          "Expected H1 present.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL."
+        ]
+      }
+    },
+    {
+      "run_at": "2026-08-15T04:28:00+02:00",
+      "keyword": "mejores perfumes árabes de lujo",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-de-lujo",
+      "title": "Mejores perfumes árabes de lujo: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-de-lujo/",
+      "status": "pushed_unverified",
+      "published_at": null,
+      "article_commit": "76fee86",
+      "final_pushed_commit": "52a124a",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Arabic perfume guides target women, Dubai/UAE, sweet, longevity, equivalences, opinions, gifts and budget/value. This article targets premium/luxury selection criteria with distinct slug, H1 and angle."
+      },
+      "serp_observations": [
+        "Google ES-style results are BOFU/commercial: brand guides, luxury Arabic perfume articles, women listicles, shops and lifestyle coverage dominate.",
+        "Top relevant pages use 7-10 item lists, brand blocks, comparison language and repeated entities such as Amouage, Swiss Arabian, Rasasi, Al Haramain, Lattafa, oud, amber, saffron, musk and rose.",
+        "SERP gaps: many pages blur luxury, luxury-accessible and price; final angle separates construction, occasion, climate and blind-buy risk without invented prices or testing claims."
+      ],
+      "sources": [
+        "https://elixirperfumes.es/blogs/blog/guia-perfumes-arabes-2026",
+        "https://detallesconesencia.com/perfumes-arabes-mujer-mejores-2026/",
+        "https://www.orientfragance.com/blogs/perfumes-arabes-blog/marcas-de-perfumes-arabes-de-lujo-que-se-pueden-comprar-en-tiendas-espanolas",
+        "https://www.marie-claire.es/belleza/perfumes-arabes-lattafa-marcas-perfumeria-menos-conocidas-espana.html",
+        "https://amouage.com/en-uk/pages/guidance",
+        "https://us.swissarabian.com/products/shaghaf-oud-3",
+        "https://shop.alharamainperfumes.com/default/amber-oud-gold-edition.html",
+        "https://lattafa.com/product/lattafa-teriaq-intense/"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-de-lujo.jpg",
+      "verification": {
+        "status": "pushed_unverified",
+        "checked_at": "2026-08-15T04:28:00+02:00",
+        "workflow": "31859248371 completed_success",
+        "checks": [
+          "Local SEO/content audit passed: 2399 words, one H1, canonical, OG image, Article/Breadcrumb/FAQ schema, internal links, 4 external links and alt text.",
+          "Local static HTTP checks passed for article, image, blog index and sitemap.",
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for final pushed commit 52a124a.",
+          "Live HTTP verification passed before final CSS push: article HTTP 200, H1, canonical, OG image, featured image 200, blog listing and sitemap."
+        ],
+        "blocker": "Live mobile Chrome screenshot still showed horizontal clipping after the third live verification attempt. A conservative mobile-width CSS fix was pushed in commit 52a124a and deployed successfully, but not reverified because the operational verification-attempt budget was exhausted."
+      }
     }
   ]
 }
