@@ -564,8 +564,8 @@
       "slug": "mejores-perfumes-arabes-de-lujo",
       "title": "Mejores perfumes árabes de lujo: 7 opciones con criterio",
       "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-de-lujo/",
-      "status": "pushed_unverified",
-      "published_at": null,
+      "status": "published",
+      "published_at": "2026-08-17T04:05:00+02:00",
       "article_commit": "76fee86",
       "final_pushed_commit": "52a124a",
       "canibalization_check": {
@@ -575,7 +575,8 @@
       "serp_observations": [
         "Google ES-style results are BOFU/commercial: brand guides, luxury Arabic perfume articles, women listicles, shops and lifestyle coverage dominate.",
         "Top relevant pages use 7-10 item lists, brand blocks, comparison language and repeated entities such as Amouage, Swiss Arabian, Rasasi, Al Haramain, Lattafa, oud, amber, saffron, musk and rose.",
-        "SERP gaps: many pages blur luxury, luxury-accessible and price; final angle separates construction, occasion, climate and blind-buy risk without invented prices or testing claims."
+        "SERP gaps: many pages blur luxury, luxury-accessible and price; final angle separates construction, occasion, climate and blind-buy risk without invented prices or testing claims.",
+        "Reverified during 2026-08-17 run after prior pushed_unverified state: public HTTP, metadata, image, blog, sitemap and desktop/mobile render all passed."
       ],
       "sources": [
         "https://elixirperfumes.es/blogs/blog/guia-perfumes-arabes-2026",
@@ -589,16 +590,77 @@
       ],
       "asset": "src/assets/mejores-perfumes-arabes-de-lujo.jpg",
       "verification": {
-        "status": "pushed_unverified",
-        "checked_at": "2026-08-15T04:28:00+02:00",
-        "workflow": "31859248371 completed_success",
+        "status": "verified",
+        "checked_at": "2026-08-17T04:05:30+02:00",
+        "workflow": "31859248371 completed_success; reverified on 2026-08-17",
         "checks": [
-          "Local SEO/content audit passed: 2399 words, one H1, canonical, OG image, Article/Breadcrumb/FAQ schema, internal links, 4 external links and alt text.",
-          "Local static HTTP checks passed for article, image, blog index and sitemap.",
-          "GitHub Actions Deploy to Cloudflare Pages completed successfully for final pushed commit 52a124a.",
-          "Live HTTP verification passed before final CSS push: article HTTP 200, H1, canonical, OG image, featured image 200, blog listing and sitemap."
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Live browser render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded and no horizontal overflow."
+        ]
+      }
+    },
+    {
+      "run_at": "2026-08-17T04:13:00+02:00",
+      "keyword": "mejores tiendas de perfumes árabes en Alicante",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-perfumes-arabes-en-alicante",
+      "title": "Mejores tiendas de perfumes árabes en Alicante: 7 opciones para comprar con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-tiendas-perfumes-arabes-en-alicante/",
+      "status": "published",
+      "published_at": "2026-08-17T04:18:00+02:00",
+      "article_commit": "45cf951",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume articles target product rankings, gifts, price, luxury, opinions and equivalences. This article targets local store/commercial intent in Alicante and province, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "SERP is local BOFU/commercial: stores, directories, review pages, contact pages and ecommerce category/landing pages dominate for Alicante queries.",
+        "Relevant results include Jamila Boutique, The Styl, Bazar Beni Amir, Arabians Perfumes, Aromas RyR, Perfumes Torsor, Perfumería Laura and broader directories such as QDQ/TripAdvisor.",
+        "Common structure is not always editorial: many results are business pages with address, contact, shop categories, product grids, reviews and short descriptions rather than long articles.",
+        "SERP gaps: pages rarely separate Arabic-specialist stores, online landings, perfume inspirations, niche perfumeries and local buying-risk checks. Final angle uses a local store checklist and no invented visits, tests, prices or reviews."
+      ],
+      "sources": [
+        "https://www.the-styl.com/",
+        "https://jamilaboutiquealc.com/shop/",
+        "https://nicanora.es/tienda-ropa/bazar-beni-amir/",
+        "https://www.arabiansperfumes.net/contacto/",
+        "https://aromasryr.net/servicios/",
+        "https://torsor-perfumes.com/",
+        "https://www.tripadvisor.es/Attraction_Review-g1064230-d33160870-Reviews-or10-Laura_Perfumeria_Nicho-Alicante_Costa_Blanca_Province_of_Alicante_Valencia.html",
+        "https://www.qdq.com/a/perfumes/alicante/alacant-alicante"
+      ],
+      "asset": "src/assets/mejores-tiendas-perfumes-arabes-alicante.jpg",
+      "image_prompt": "Editorial still life for Alicante Arabic perfume shopping guide; unbranded bottles, oud, amber resin, blotters, Mediterranean boutique light; no logos, labels or text.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-17T04:18:30+02:00",
+        "workflow": "31987299639 completed_success",
+        "checks": [
+          "Campaign Magnific article reverified before routine selection: HTTP 200, H1, canonical, featured image reference, blog listing, sitemap and exactly one followed editorial link with required anchor/destination.",
+          "Previous luxury article reconciled from pushed_unverified to published after HTTP, metadata, discovery surfaces and live desktop/mobile render passed.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for content commit 45cf951.",
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Article schema, Breadcrumb schema, ItemList schema and FAQ schema parsed as valid JSON-LD locally.",
+          "SEO/content audit passed locally: 1799 article-body words, one H1, canonical, OG image, alt text, 4 external links and editorial internal links.",
+          "Second editorial/SEO review passed: intent, originality safeguards, claims, links, schema, image alt, no template text and canibalization clear.",
+          "Live browser render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded, table contained and no horizontal overflow."
         ],
-        "blocker": "Live mobile Chrome screenshot still showed horizontal clipping after the third live verification attempt. A conservative mobile-width CSS fix was pushed in commit 52a124a and deployed successfully, but not reverified because the operational verification-attempt budget was exhausted."
+        "limitations": [
+          "Local npm run build hung after starting Eleventy and was stopped after 60 seconds; GitHub Actions Build Eleventy site completed successfully remotely.",
+          "Local git fetch hung, so publication used the GitHub Git Database API on current remote main."
+        ]
       }
     }
   ]
