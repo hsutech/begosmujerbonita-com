@@ -662,6 +662,65 @@
           "Local git fetch hung, so publication used the GitHub Git Database API on current remote main."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-18T09:42:00+02:00",
+      "keyword": "perfumes árabes en Calpe",
+      "priority": "Media",
+      "slug": "perfumes-arabes-en-calpe",
+      "title": "Perfumes árabes en Calpe: dónde comprar y cómo elegir con criterio",
+      "url": "https://begosmujerbonita.com/blog/perfumes-arabes-en-calpe/",
+      "status": "published",
+      "published_at": "2026-08-18T09:42:00+02:00",
+      "article_commit": "def06de",
+      "final_pushed_commit": "450d723",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing articles target product rankings, Alicante-wide store options, budget, luxury, gift, opinions and equivalences. This article targets local Calpe/Calp buying intent, store-route decisions and climate-aware purchase checks, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "SERP for Calpe/Calp is local BOFU: directories, local perfumery listings, shopping-centre pages, brand/category ecommerce pages and specialist online perfume stores appear rather than long editorial guides.",
+        "Relevant comparable results include Páginas Amarillas Calp/Calpe perfume listings, Paco Perfumerías Plaza Central Calpe, Primor Arabic perfumes category, Perfumes Sinfonía, Esencias Árabes, Ámbar Shop and local Begosmujerbonita directory signals.",
+        "Common gaps: local results list addresses and categories but rarely explain whether Arabic perfume stock is confirmed, how to distinguish general perfumery from Arabic-specialist buying, or how Calpe climate changes perfume choice.",
+        "Final angle: BOFU local guide with routes by need, confirmation checklist, climate cautions and no invented visits, prices, tests, ratings or review claims."
+      ],
+      "sources": [
+        "https://www.paginasamarillas.es/a/perfumes/alicante/calp-calpe/",
+        "https://plazacentralcalpe.com/directorio/paco-perfumerias/",
+        "https://www.primor.eu/es_es/perfumes-arabes",
+        "https://perfumessinfonia.com/",
+        "https://esenciasarabes.es/tienda/",
+        "https://ambar-shop.es/",
+        "https://nicanora.es/tienda-ropa/begosmujerbonita-perfums-dubai/",
+        "https://www.begosmujerbonita.com/perfumes"
+      ],
+      "asset": "src/assets/perfumes-arabes-en-calpe.jpg",
+      "image_prompt": "Editorial still life of unbranded Arabic perfume bottles on a boutique counter with blotters, amber resin, oud wood and Mediterranean Calpe coastal light; no logos, labels, people or text.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-18T09:42:00+02:00",
+        "workflow": "32112472396 completed_success",
+        "checks": [
+          "Campaign Magnific article reverified before routine selection: HTTP 200, H1, canonical, featured image reference and exactly one followed editorial link with required anchor/destination.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for initial content commit def06de and final mobile fix commit 450d723.",
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Article schema, Breadcrumb schema and FAQ schema parsed as valid JSON-LD locally.",
+          "SEO/content audit passed locally: 1941 words, one H1, canonical, OG image, alt text, 4 external source links, editorial internal links, table of contents and no template text.",
+          "Local production build completed successfully.",
+          "Local static HTTP checks passed for article, image, blog and sitemap.",
+          "Live desktop and mobile Chrome headless screenshots verified H1 visible, featured image loaded and no text clipping after the 450d723 mobile layout fix."
+        ],
+        "deployment_checks": [
+          "Attempt 1 after content push verified HTTP/article/image/blog/sitemap but mobile screenshot showed text clipping.",
+          "Attempt 2 after 450d723 verified HTTP/article/image/blog/sitemap and live desktop/mobile screenshots passed."
+        ]
+      }
     }
   ]
 }
