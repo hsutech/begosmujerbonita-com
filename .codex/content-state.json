@@ -721,6 +721,62 @@
           "Attempt 2 after 450d723 verified HTTP/article/image/blog/sitemap and live desktop/mobile screenshots passed."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-21T12:50:00+02:00",
+      "keyword": "Lattafa perfumes mujer opiniones",
+      "priority": "Media",
+      "slug": "lattafa-perfumes-mujer-opiniones",
+      "title": "Lattafa perfumes mujer opiniones: cómo elegir sin comprar por hype",
+      "url": "https://begosmujerbonita.com/blog/lattafa-perfumes-mujer-opiniones/",
+      "status": "published",
+      "published_at": "2026-08-21T12:50:00+02:00",
+      "article_commit": "e13eb7a",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing article perfumes árabes mujer opiniones covers broad review-reading intent across Arabic perfumes. This article targets Lattafa-specific women/unisex references, official notes, review patterns and buying risks with distinct slug and H1."
+      },
+      "serp_observations": [
+        "SERP is BOFU/commercial: Lattafa women ranking pages, ecommerce opinion pages, Arabic perfume listicles and official product fiches dominate.",
+        "Comparable pages commonly use listicles, short product blocks, review snippets, FAQ sections and ecommerce cards; authorial depth is uneven and many claims about duration or best status lack context.",
+        "Entities and products repeated across results include Lattafa Yara, Yara Tous, Eclaire, Sakeena, Fakhar Women, Khamrah/Qahwa, vanilla, musk, tropical fruit, white flowers, caramel, praline, coffee and spice.",
+        "SERP gaps: many results treat opinions as universal, blur women and unisex positioning, and overstate clone/duration claims. Final angle explains how to interpret reviews by note family, climate, use case and source quality."
+      ],
+      "sources": [
+        "https://www.notino.es/opiniones/lattafa/eclaire-eau-de-parfum-unisex/",
+        "https://elixirperfumes.es/blogs/blog/mejores-perfumes-lattafa-mujer",
+        "https://bplatz.es/Blogs/noticias/Las-mejores-fragancias-Lattafa-para-mujer",
+        "https://detallesconesencia.com/mejores-perfumes-lattafa-2026/",
+        "https://lattafa.com/product/yara/",
+        "https://lattafa.com/product/yara-tous/",
+        "https://lattafa.com/product/eclaire/",
+        "https://lattafa.com/product/sakeena/",
+        "https://lattafa.com/product/fakhar-lattafa-women/",
+        "https://lattafa.com/product/khamrah-qahwa/"
+      ],
+      "asset": "src/assets/lattafa-perfumes-mujer-opiniones.jpg",
+      "image_prompt": "Editorial still life of unbranded women-oriented Arabic perfume evaluation desk with blotters, notebook, amber resin and Mediterranean boutique light; no logos, labels, people or text.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-08-21T12:50:00+02:00",
+        "workflow": "32474247040 completed_success",
+        "checks": [
+          "Campaign Magnific article reverified before routine selection: HTTP 200, H1, canonical, featured image reference, blog listing, sitemap and exactly one followed editorial link with required anchor/destination.",
+          "Local SEO/content audit passed: 2018 visible words, one H1, canonical, OG image, 3 JSON-LD blocks, 4+ editorial internal links and 4+ authoritative/comparable external links.",
+          "Local production build completed successfully with Eleventy.",
+          "Local static checks passed for generated article, image, blog card and sitemap.",
+          "Local Chrome render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded, table contained and no horizontal overflow.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for content commit e13eb7a.",
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Live Chrome render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded, table contained and no horizontal overflow."
+        ]
+      }
     }
   ]
 }
