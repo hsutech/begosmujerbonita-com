@@ -777,6 +777,46 @@
           "Live Chrome render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded, table contained and no horizontal overflow."
         ]
       }
+    },
+    {
+      "run_at": "2026-08-22T04:09:04+02:00",
+      "keyword": "Armaf perfumes mujer opiniones",
+      "priority": "Media",
+      "slug": "armaf-perfumes-mujer-opiniones",
+      "title": "Armaf perfumes mujer opiniones: cómo elegir sin comprar solo por hype",
+      "url": "https://begosmujerbonita.com/blog/armaf-perfumes-mujer-opiniones/",
+      "status": "pushed_unverified",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing broad opinions article covers Arabic perfumes generally and the Lattafa article targets one brand. This article targets Armaf-specific women/unisex references, review interpretation, official notes, Club de Nuit comparisons and climate-aware purchase risk with a distinct slug and H1."
+      },
+      "serp_observations": [
+        "SERP is BOFU/review-led: ecommerce opinion pages, product fiches, retailer pages and fragrance community results dominate rather than long editorial guides.",
+        "Comparable results focus heavily on Armaf Club de Nuit Woman opinions, ratings, perceived similarity to well-known designer scents, intensity, duration and value language.",
+        "Official Armaf pages show a broad women/unisex catalogue including Club de Nuit Woman, Club de Nuit Intense Woman, Club de Nuit Imperiale, Tag Her, Yum Yum and Odyssey Candee.",
+        "Common gaps: many results turn reviews into universal claims, overstate exact-dupe positioning, or omit climate, patchouli/oud tolerance, use case and blind-buy risk. Final angle explains how to read opinions without invented testing, prices or personal experience."
+      ],
+      "sources": [
+        "https://www.notino.es/opiniones/armaf/club-de-nuit-woman-eau-de-parfum-para-mujer/",
+        "https://www.perfumesclub.com/es/armaf/club-de-nuit-woman-eau-de-parfum-vaporizador/p_219413/",
+        "https://www.druni.es/armaf-club-nuit-armaf-eau-parfum-mujer",
+        "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-27655.html",
+        "https://armaf.com/products/club-de-nuit-w",
+        "https://armaf.com/products/club-de-nuit-intense-woman",
+        "https://armaf.com/products/armaf-club-de-nuit-white-imperial-buy-original-perfumes-online-uae",
+        "https://armaf.com/products/tag-her",
+        "https://armaf.com/products/yum-yum-spr",
+        "https://armaf.com/products/odyssey-candee-special-edition"
+      ],
+      "asset": "src/assets/armaf-perfumes-mujer-opiniones.jpg",
+      "image_prompt": "Editorial still life of unbranded women-oriented Armaf review comparison scene with perfume bottles, blotters, amber resin, oud wood and Mediterranean Calpe light; no logos, labels, people or text.",
+      "verification": {
+        "status": "pending_live_verification",
+        "checks": [
+          "Campaign Magnific article reverified before routine selection: HTTP 200, H1, canonical, featured image reference and exactly one followed editorial link with required anchor/destination.",
+          "Article drafted and integrated; awaiting public deployment verification before marking published."
+        ]
+      }
     }
   ]
 }
