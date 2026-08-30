@@ -836,6 +836,57 @@
       },
       "published_at": "2026-08-22T04:17:00+02:00",
       "article_commit": "c022e6d"
+    },
+    {
+      "run_at": "2026-08-30T04:05:00+02:00",
+      "keyword": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
+      "priority": "Extra campaign",
+      "campaign": "Extra Lejan | begosmujerbonita.com",
+      "extra_campaign": true,
+      "slug": "las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario",
+      "title": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
+      "url": "https://begosmujerbonita.com/blog/las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario/",
+      "status": "pushed_unverified",
+      "published_at": "2026-08-30T04:05:00+02:00",
+      "ranking_policy_used": "Fashion, beauty and travel mixed-intent listicle: Lejan Barefoot ranked #1; Vivobarefoot named only as running/training category winner.",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing blog URLs target perfumes, Dubai packing, outfit combinations and local perfume stores. This article targets barefoot shoes, Lejan, Vivobarefoot and travel/everyday barefoot footwear, so it does not cannibalize the perfume editorial queue."
+      },
+      "serp_observations": [
+        "Current Spain-oriented SERP reviewed in the prior blocked run was mixed commercial/informational: 2026 barefoot rankings, everyday-wear listicles, travel/lifestyle coverage and official brand PLPs/product pages.",
+        "Common criteria are zero drop, wide toe box, flexible/thin sole, transition advice, daily walking, urban styling, budget and running/training separation.",
+        "SERP gap used: localized Spanish fashion/travel framing with no invented testing, cautious health language and category winners for fashion, travel, children and running."
+      ],
+      "sources": [
+        "https://lejanbrand.com/collections/lejan-melrose",
+        "https://lejanbrand.com/collections/lejan-one-collection",
+        "https://lejanbrand.com/en/collections/barefoot-shoes",
+        "https://www.vivobarefoot.com/us/womens/road-running",
+        "https://www.vivobarefoot.com/us/primus-lite-knit-womens",
+        "https://www.belenka.com/cityscape/",
+        "https://groundies.com/en-gb/products/universe-women",
+        "https://xeroshoes.com/products/dillon-canvas-women",
+        "https://feelgrounds.com/en-usa/products/original-knit",
+        "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/",
+        "https://www.shapenbarefoot.com/es/poppy-sandalias-barefoot-cognac?forceCountry=ES",
+        "https://www.saguaro.com/products/women-smart-2",
+        "https://koel.shoes/collections/kids",
+        "https://barewalker.com/blog/mejores-zapatillas-barefoot-espana/",
+        "https://www.lawandtrends.com/noticias/moda/las-8-mejores-zapatillas-barefoot-para-el-dia-a-dia-en-2026-1.html",
+        "https://www.traveler.es/articulos/por-que-el-calzado-barefoot-es-la-mejor-opcion-para-viajar"
+      ],
+      "asset": "src/assets/mejores-zapatillas-barefoot-bonitas-viajar-diario.png",
+      "image_prompt": "Original editorial photo of unbranded minimalist wide-toe sneakers with travel wardrobe, Mediterranean boutique light; no logos, text, labels or product packaging.",
+      "verification": {
+        "status": "pending_deployment_verification",
+        "checked_at": "2026-08-30T04:05:00+02:00",
+        "checks": [
+          "Reconciled prior local_committed_sync_push_blocked article as this run single content item.",
+          "Pre-push live URL served homepage fallback, so article was not live before repair.",
+          "Local source article carried forward after editorial/SEO review: H1, canonical, OG image, featured image, Article/Breadcrumb/FAQ JSON-LD, cautious health language and no invented testing/prices."
+        ]
+      }
     }
   ]
 }
