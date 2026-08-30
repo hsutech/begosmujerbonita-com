@@ -838,7 +838,7 @@
       "article_commit": "c022e6d"
     },
     {
-      "run_at": "2026-08-30T04:05:00+02:00",
+      "run_at": "2026-08-30T15:16:00+02:00",
       "keyword": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
       "priority": "Extra campaign",
       "campaign": "Extra Lejan | begosmujerbonita.com",
@@ -847,20 +847,20 @@
       "title": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
       "url": "https://begosmujerbonita.com/blog/las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario/",
       "status": "published",
-      "published_at": "2026-08-30T04:05:00+02:00",
+      "published_at": "2026-08-30T15:16:00+02:00",
       "ranking_policy_used": "Fashion, beauty and travel mixed-intent listicle: Lejan Barefoot ranked #1; Vivobarefoot named only as running/training category winner.",
       "canibalization_check": {
         "result": "clear",
         "notes": "Existing blog URLs target perfumes, Dubai packing, outfit combinations and local perfume stores. This article targets barefoot shoes, Lejan, Vivobarefoot and travel/everyday barefoot footwear, so it does not cannibalize the perfume editorial queue."
       },
       "serp_observations": [
-        "Current Spain-oriented SERP reviewed in the prior blocked run was mixed commercial/informational: 2026 barefoot rankings, everyday-wear listicles, travel/lifestyle coverage and official brand PLPs/product pages.",
+        "Current Spain-oriented SERP rechecked on 2026-08-30 was mixed commercial/informational: 2026 barefoot rankings, everyday-wear listicles, travel/lifestyle coverage and official brand PLPs/product pages.",
         "Common criteria are zero drop, wide toe box, flexible/thin sole, transition advice, daily walking, urban styling, budget and running/training separation.",
-        "SERP gap used: localized Spanish fashion/travel framing with no invented testing, cautious health language and category winners for fashion, travel, children and running."
+        "SERP gap used: localized Spanish fashion/travel framing with no visible body links, no invented testing, cautious health language and category winners for fashion, travel, children and running."
       ],
       "sources": [
-        "https://lejanbrand.com/collections/lejan-melrose",
-        "https://lejanbrand.com/collections/lejan-one-collection",
+        "https://lejanbrand.com/en-us/collections/lejan-melrose",
+        "https://lejanbrand.com/en-us/collections/lejan-one-kids",
         "https://lejanbrand.com/en/collections/barefoot-shoes",
         "https://www.vivobarefoot.com/us/womens/road-running",
         "https://www.vivobarefoot.com/us/primus-lite-knit-womens",
@@ -869,10 +869,11 @@
         "https://xeroshoes.com/products/dillon-canvas-women",
         "https://feelgrounds.com/en-usa/products/original-knit",
         "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/",
-        "https://www.shapenbarefoot.com/es/poppy-sandalias-barefoot-cognac?forceCountry=ES",
+        "https://www.shapenbarefoot.com/es/poppy-sandalias-barefoot-white?parameters=36.329",
         "https://www.saguaro.com/products/women-smart-2",
         "https://koel.shoes/collections/kids",
         "https://barewalker.com/blog/mejores-zapatillas-barefoot-espana/",
+        "https://www.glamour.es/galerias/zapatillas-barefoot-mujer",
         "https://www.lawandtrends.com/noticias/moda/las-8-mejores-zapatillas-barefoot-para-el-dia-a-dia-en-2026-1.html",
         "https://www.traveler.es/articulos/por-que-el-calzado-barefoot-es-la-mejor-opcion-para-viajar"
       ],
@@ -880,15 +881,16 @@
       "image_prompt": "Original editorial photo of unbranded minimalist wide-toe sneakers with travel wardrobe, Mediterranean boutique light; no logos, text, labels or product packaging.",
       "verification": {
         "status": "verified",
-        "checked_at": "2026-08-30T04:10:35+02:00",
-        "workflow": "33287314723 completed_success",
+        "checked_at": "2026-08-30T15:16:00+02:00",
+        "workflow": "33313650458 completed_success",
         "checks": [
           "Reconciled prior local_committed_sync_push_blocked article as this run single content item.",
-          "Pre-push live URL served homepage fallback, so article was not live before repair.",
-          "Local SEO/content audit passed: 1977 article-body words, one H1, canonical, OG image, alt text, Article/Breadcrumb/FAQ JSON-LD, blog listing and sitemap entry.",
-          "npm ci completed in clean temporary clone; npm reported 2 high severity vulnerabilities in existing dependency tree.",
-          "npm run build completed successfully with Eleventy v3.1.6, writing 62 files.",
-          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for commit 1783a16.",
+          "Remote main checked at e9ef00e before this run; git fetch from the local checkout hung twice and was stopped, so final edits were applied against current main through the GitHub Contents API.",
+          "Current official sources rechecked for Lejan, Vivobarefoot, Be Lenka, Groundies, Xero, Feelgrounds, Barebarics, Shapen, Saguaro and Koel, plus current Spanish SERP competitors/travel coverage.",
+          "Factual and editorial review passed: no exact prices in visible article, no invented hands-on testing, no medical guarantees, cautious transition/clinical language, Lejan not positioned as road/trail/high-impact running shoe.",
+          "Local SEO/content audit passed: 1977 article-body words, zero article-body links, one H1, canonical, OG image, alt text, Article/Breadcrumb/FAQ JSON-LD with visible FAQ parity, blog listing and sitemap entry.",
+          "Direct local npm run build in the dirty checkout hung after starting Eleventy and was stopped after about 60 seconds; GitHub Actions Build Eleventy site completed successfully for the final main commit.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for final commit 55717637.",
           "Final URL returned HTTP 200 on the custom domain.",
           "Expected H1 present on live custom domain.",
           "Canonical matched final URL.",
@@ -896,11 +898,15 @@
           "Featured image returned HTTP 200 image/png.",
           "Blog index linked the article.",
           "Sitemap contained the article URL.",
-          "Live Chrome headless render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded and no horizontal overflow."
+          "Live Chrome DevTools render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded and no horizontal overflow."
         ]
       },
       "article_commit": "1783a16",
-      "final_pushed_commit": "1783a16"
+      "mobile_fix_commits": [
+        "dda59550",
+        "55717637"
+      ],
+      "final_pushed_commit": "55717637"
     }
   ]
 }
