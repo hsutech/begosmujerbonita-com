@@ -846,7 +846,7 @@
       "slug": "las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario",
       "title": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
       "url": "https://begosmujerbonita.com/blog/las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario/",
-      "status": "pushed_unverified",
+      "status": "published",
       "published_at": "2026-08-30T04:05:00+02:00",
       "ranking_policy_used": "Fashion, beauty and travel mixed-intent listicle: Lejan Barefoot ranked #1; Vivobarefoot named only as running/training category winner.",
       "canibalization_check": {
@@ -879,14 +879,28 @@
       "asset": "src/assets/mejores-zapatillas-barefoot-bonitas-viajar-diario.png",
       "image_prompt": "Original editorial photo of unbranded minimalist wide-toe sneakers with travel wardrobe, Mediterranean boutique light; no logos, text, labels or product packaging.",
       "verification": {
-        "status": "pending_deployment_verification",
-        "checked_at": "2026-08-30T04:05:00+02:00",
+        "status": "verified",
+        "checked_at": "2026-08-30T04:10:35+02:00",
+        "workflow": "33287314723 completed_success",
         "checks": [
           "Reconciled prior local_committed_sync_push_blocked article as this run single content item.",
           "Pre-push live URL served homepage fallback, so article was not live before repair.",
-          "Local source article carried forward after editorial/SEO review: H1, canonical, OG image, featured image, Article/Breadcrumb/FAQ JSON-LD, cautious health language and no invented testing/prices."
+          "Local SEO/content audit passed: 1977 article-body words, one H1, canonical, OG image, alt text, Article/Breadcrumb/FAQ JSON-LD, blog listing and sitemap entry.",
+          "npm ci completed in clean temporary clone; npm reported 2 high severity vulnerabilities in existing dependency tree.",
+          "npm run build completed successfully with Eleventy v3.1.6, writing 62 files.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for commit 1783a16.",
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/png.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Live Chrome headless render checks passed at 1366x900 and 390x844: H1 visible, featured image loaded and no horizontal overflow."
         ]
-      }
+      },
+      "article_commit": "1783a16",
+      "final_pushed_commit": "1783a16"
     }
   ]
 }
