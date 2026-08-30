@@ -882,7 +882,7 @@
       "verification": {
         "status": "verified",
         "checked_at": "2026-08-30T15:16:00+02:00",
-        "workflow": "33313650458 completed_success",
+        "workflow": "33313796620 completed_success",
         "checks": [
           "Reconciled prior local_committed_sync_push_blocked article as this run single content item.",
           "Remote main checked at e9ef00e before this run; git fetch from the local checkout hung twice and was stopped, so final edits were applied against current main through the GitHub Contents API.",
@@ -906,6 +906,7 @@
         "dda59550",
         "55717637"
       ],
+      "content_state_commit": "5172ff4a",
       "final_pushed_commit": "55717637"
     }
   ]
