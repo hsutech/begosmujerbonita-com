@@ -1,0 +1,36 @@
+/*
+ * Static export recovery.
+ * The source markup retains animation start states from the React build, but
+ * there is no client runtime to advance them. Keep every block visible.
+ */
+[style*="opacity:0"],
+[style*="opacity: 0"] {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+[data-static-mobile-nav] {
+  width: 100%;
+}
+
+.overflow-x-auto {
+  max-width: 100%;
+  overflow-x: auto !important;
+}
+
+main article table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+@media (max-width: 620px) {
+  body > header > div[style*="display:flex"] {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  body > header nav[style*="display:flex"] {
+    flex-wrap: wrap;
+  }
+}

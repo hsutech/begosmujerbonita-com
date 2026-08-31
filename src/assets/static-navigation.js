@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   document
-    .querySelectorAll('button[aria-label*="menu" i], button[aria-label*="navigation" i]')
+    .querySelectorAll('button[aria-label*="menu" i], button[aria-label*="menú" i], button[aria-label*="navigation" i]')
     .forEach((button) => {
       const container = button.closest("header") || button.closest("nav") || button.parentElement;
       const nav = container?.querySelector("nav") || button.closest("nav");
@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
           panel.dataset.staticMobileNav = "";
           panel.className = "lg:hidden border-t px-6 py-5 flex flex-col gap-4 bg-inherit";
           panel.hidden = true;
-          for (const link of uniqueLinks(nav)) {
+          for (const link of uniqueLinks(container)) {
             const clone = link.cloneNode(true);
             clone.className = "block py-2 font-semibold";
             panel.appendChild(clone);
