@@ -966,6 +966,38 @@
           "Notino and Fragrantica were visible via live SERP/web fetch but returned 403 to direct curl checks, so final state sources prioritize publicly curl-accessible Afnan, Douglas and WhatScent URLs."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-01T09:52:00+02:00",
+      "keyword": "perfume árabe vs perfume occidental",
+      "priority": "Media",
+      "slug": "perfume-arabe-vs-perfume-occidental",
+      "title": "Perfume árabe vs perfume occidental: diferencias reales para elegir bien",
+      "url": "https://begosmujerbonita.com/blog/perfume-arabe-vs-perfume-occidental/",
+      "status": "draft_local",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing articles target Arabic perfume rankings, sweet/cheap/luxury/gift variants, equivalences, local Calpe/Alicante buying and brand opinions for Lattafa, Armaf and Afnan. This article targets the comparison intent between Arabic and Western perfume styles, so it uses a distinct slug, H1 and decision framework."
+      },
+      "serp_observations": [
+        "Current Google ES-oriented SERP is mixed informational/commercial: perfume-shop blogs, beginner guides, comparison tables and beauty-magazine explainers dominate.",
+        "Top comparable pages emphasize ingredients, concentration, duration, projection, price/value and when to choose Arabic vs Western fragrances; several use tables and FAQ-like sections.",
+        "Common entities include oud, amber/ámbar, musk/almizcle, rose, spices, citrus, floral families, eau de parfum, extrait, attar, Lattafa, Afnan and Armaf.",
+        "SERP gap used: avoid treating Arabic and Western perfumes as fixed blocks; explain exceptions, climate effects in Alicante/Calpe, concentration limits, skin caution and purchase-risk signals without invented testing or universal duration claims."
+      ],
+      "sources": [
+        "https://www.royaloud.es/blogs/noticias/perfumes-arabes-vs-perfumes-occidentales-diferencias",
+        "https://fragarabic.com/blogs/portada/diferencia-entre-perfumes-arabes-y-occidentales",
+        "https://elixirperfumes.es/blogs/blog/guia-perfumes-arabes-2026",
+        "https://zafriya.com/es/blog/arabian-perfumes-vs-western-fragrances-differences",
+        "https://fraganciascolombia.com/blogs/guias-de-perfumeria-2/perfumes-arabes-vs-occidentales-la-guia-definitiva",
+        "https://miarevista.okdiario.com/belleza/perfumes-arabes-guia-completa-entenderlos-y-acertar.html",
+        "https://perfumesociety.org/discover-perfume/an-introduction/fragrance-families/",
+        "https://dermnetnz.org/topics/fragrances-and-perfumes",
+        "https://ifrafragrance.org/understanding-standards"
+      ],
+      "asset": "src/assets/perfume-arabe-vs-perfume-occidental.jpg",
+      "image_prompt": "Original editorial still life comparing Arabic and Western perfume styles with blank-label bottles, amber resin, oud wood, citrus, white flowers, blotters and notebook; no logos, labels, people, text or fake product evidence."
     }
   ]
 }
