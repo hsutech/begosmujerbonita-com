@@ -974,7 +974,7 @@
       "slug": "perfume-arabe-vs-perfume-occidental",
       "title": "Perfume árabe vs perfume occidental: diferencias reales para elegir bien",
       "url": "https://begosmujerbonita.com/blog/perfume-arabe-vs-perfume-occidental/",
-      "status": "draft_local",
+      "status": "published",
       "canibalization_check": {
         "result": "clear",
         "notes": "Existing articles target Arabic perfume rankings, sweet/cheap/luxury/gift variants, equivalences, local Calpe/Alicante buying and brand opinions for Lattafa, Armaf and Afnan. This article targets the comparison intent between Arabic and Western perfume styles, so it uses a distinct slug, H1 and decision framework."
@@ -997,7 +997,38 @@
         "https://ifrafragrance.org/understanding-standards"
       ],
       "asset": "src/assets/perfume-arabe-vs-perfume-occidental.jpg",
-      "image_prompt": "Original editorial still life comparing Arabic and Western perfume styles with blank-label bottles, amber resin, oud wood, citrus, white flowers, blotters and notebook; no logos, labels, people, text or fake product evidence."
+      "image_prompt": "Original editorial still life comparing Arabic and Western perfume styles with blank-label bottles, amber resin, oud wood, citrus, white flowers, blotters and notebook; no logos, labels, people, text or fake product evidence.",
+      "published_at": "2026-09-01T09:54:00+02:00",
+      "article_commit": "d7b5545",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-01T09:54:00+02:00",
+        "workflow": "33484184235 completed_success",
+        "checks": [
+          "Campaign Magnific article reverified before routine selection: HTTP 200, expected H1/canonical, featured image reference and exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Local SEO/content audit passed: 1997 visible words, one H1, canonical, OG image, featured image alt text, Article/Breadcrumb/FAQ JSON-LD, 5 editorial internal links and 5 external source links.",
+          "Original featured image generated with built-in imagegen, optimized to JPG 1680x945 and saved as src/assets/perfume-arabe-vs-perfume-occidental.jpg.",
+          "npm ci completed in clean clone; npm warned that fsevents install scripts were not allowlisted by current npm policy.",
+          "Local production build completed successfully with Eleventy.",
+          "Local static HTTP checks passed for article page, featured image, blog listing and sitemap.",
+          "Local Chrome headless screenshots passed at 1366x900 and 390x844: H1 visible, featured image loaded and no obvious clipping.",
+          "GitHub Actions workflow Deploy to Cloudflare Pages completed successfully for content commit d7b5545.",
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Open Graph image referenced final featured image.",
+          "Featured image returned HTTP 200 image/jpeg with expected content length.",
+          "Blog index linked the article.",
+          "Sitemap contained the article URL.",
+          "Live Chrome headless screenshots passed at 1366x900 and 390x844: H1 visible, featured image loaded and no obvious clipping."
+        ],
+        "deployment_checks": [
+          "Attempt 1 verified article, H1, canonical, OG/featured image, public image HTTP 200, blog listing, sitemap and live desktop/mobile screenshots."
+        ],
+        "limitations": [
+          "The local workspace checkout at /Users/erikhsu/Documents/begosmujerbonita-com is behind remote and git status exits with SIGBUS, so publication used clean clone /private/tmp/begos-publish-20260901 from remote main."
+        ]
+      }
     }
   ]
 }
