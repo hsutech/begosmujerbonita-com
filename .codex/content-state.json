@@ -1029,6 +1029,68 @@
           "The local workspace checkout at /Users/erikhsu/Documents/begosmujerbonita-com is behind remote and git status exits with SIGBUS, so publication used clean clone /private/tmp/begos-publish-20260901 from remote main."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-02T09:50:00+02:00",
+      "keyword": "mejores perfumes árabes para verano",
+      "priority": "Media",
+      "slug": "mejores-perfumes-arabes-para-verano",
+      "title": "Mejores perfumes árabes para verano: 7 opciones frescas para elegir con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-verano/",
+      "status": "published",
+      "published_at": "2026-09-02T09:50:00+02:00",
+      "article_commit": "7c6a322",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Arabic perfume articles target women, Dubai/UAE, sweet, long-lasting, equivalences, gifts, budget/luxury, location and Arabic-vs-Western comparison. This article narrows the intent to summer heat, fresh/citrus/aquatic/fruity/floral profiles, Mediterranean application and warm-weather buying risk, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "Google ES-style results for mejores perfumes árabes para verano are BOFU/commercial: store listicles, 5-10 product rankings, comparison tables and product CTAs dominate.",
+        "Top relevant pages emphasize fresh, citrus, aquatic, marine, aromatic, fruity, white musk and light woody profiles, commonly mentioning Afnan 9 AM Dive/9 AM/Turathi Blue, Rasasi Hawas, Armaf Club de Nuit Milestone/Iconic and Lattafa Mayar/Yara/Ana Abiyedh variants.",
+        "Common structures include quick answer, ranking table, product-by-product recommendations, notes, occasion guidance, price when sold by the publisher and FAQs.",
+        "SERP gaps: many pages promise fixed longevity or treat all fresh perfumes as easy; final angle separates office, active day, vacation, terrace, evening and gift use while avoiding invented hours, prices, reviews or first-hand testing."
+      ],
+      "sources": [
+        "https://privateriche.com/blog/mejores-perfumes-arabes-verano",
+        "https://senziate.com/blogs/perfumes-arabes-1/mejores-perfumes-arabes-verano",
+        "https://esenciasdedubai.es/blog/perfumes-arabes-verano-2026",
+        "https://elixirperfumes.es/blogs/blog/mejor-perfume-arabe-verano",
+        "https://blog.perfulista.com/entradas/10-perfumes-arabes-limpios-frescos.html",
+        "https://picart.lol/mejores-perfumes-arabes-para-verano/",
+        "https://afnan.com/products/9-am",
+        "https://us.afnan.com/products/9-am-dive",
+        "https://lattafa.com/product/mayar-natural-intense/",
+        "https://www.lattafa-usa.com/products/yara-tous",
+        "https://www.lattafaindia.com/products/ana-abiyedh-coral",
+        "https://armaf.com/products/club-de-nuit-milestone",
+        "https://store.rasasi.com.sa/en/gzngzkp/p1230144398"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-para-verano.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-02T09:50:00+02:00",
+        "workflow": "33605407541 completed_success",
+        "checks": [
+          "Magnific campaign article was already present in repo and prior memory recorded public verification with exactly one followed approved link.",
+          "Selected next eligible workbook keyword after perfume árabe vs perfume occidental: mejores perfumes árabes para verano.",
+          "Local npm ci completed; npm repeated the existing fsevents install-scripts warning.",
+          "Local npm run build completed successfully with Eleventy.",
+          "Local audit passed: 2234 article-body words, one H1, canonical, OG image, Article/Breadcrumb/FAQ JSON-LD, featured image alt text, real internal links and external source links.",
+          "Local HTTP checks passed for article, JPEG image, blog index and sitemap.",
+          "Local Chrome headless desktop/mobile screenshots showed expected H1, loaded image and stable first viewport.",
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for content commit 7c6a322.",
+          "Final custom-domain article URL returned HTTP 200 with expected H1, canonical and OG/featured image reference.",
+          "Featured image returned HTTP 200 image/jpeg at 1672x941 and 325869 bytes.",
+          "Blog index linked the article and showed 2 de septiembre de 2026.",
+          "Sitemap contained the article URL.",
+          "Live Chrome headless desktop/mobile screenshots showed expected H1 and loaded featured image."
+        ],
+        "deployment_checks": [
+          "Attempt 1 with urllib returned HTTP 403 for the custom domain due bot/User-Agent filtering.",
+          "Attempt 2 with browser User-Agent verified article, image, blog listing and sitemap after Cloudflare deployment.",
+          "Workflow log included a tolerated project-already-exists annotation from the idempotent Cloudflare project create step, but gh run list reported completed/success and the Pages deploy completed."
+        ]
+      }
     }
   ]
 }
