@@ -1091,6 +1091,71 @@
           "Workflow log included a tolerated project-already-exists annotation from the idempotent Cloudflare project create step, but gh run list reported completed/success and the Pages deploy completed."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-05T04:14:00+02:00",
+      "keyword": "mejores perfumes árabes para invierno",
+      "priority": "Media",
+      "slug": "mejores-perfumes-arabes-para-invierno",
+      "title": "Mejores perfumes árabes para invierno: 7 opciones cálidas para elegir con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-invierno/",
+      "status": "published",
+      "published_at": "2026-09-05T04:14:00+02:00",
+      "article_commit": "a358e89",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Arabic perfume articles target women, Dubai/UAE, sweet, long-lasting, equivalences, gifts, budget/luxury, local buying, brand opinions, Arabic-vs-Western comparison and summer freshness. This article narrows the intent to winter use, warm notes, cold-weather occasions, Mediterranean winter application and risk control, with a distinct slug and H1."
+      },
+      "serp_observations": [
+        "Current Google ES-oriented SERP for mejores perfumes árabes para invierno is BOFU/commercial: store listicles, seasonal guides, 5-15 item rankings and beauty articles dominate.",
+        "Top comparable pages emphasize warm and dense families such as oud, amber, vanilla, tonka, cinnamon, coffee, incense, resins and woody bases, commonly mentioning Lattafa Khamrah, Khamrah Qahwa, Afnan 9 PM, Raghba, Oud Mood, Badee Al Oud, Amber Oud, Shaghaf Oud Tonka and Armaf Club de Nuit Untold.",
+        "Common structures include quick answer, why winter suits dense perfumes, comparison/ranking, product notes, occasion guidance, price when sold by the publisher and FAQs.",
+        "SERP gaps: many pages promise fixed longevity or treat winter as permission to overapply; final angle separates daily use, night, gifting and Mediterranean winter conditions while avoiding invented hours, prices, reviews or first-hand testing."
+      ],
+      "sources": [
+        "https://privateriche.com/blog/mejores-perfumes-arabes-invierno",
+        "https://esenciasdedubai.es/blog/perfumes-arabes-invierno",
+        "https://zafriya.com/es/blog/best-winter-perfumes-arabian-fragrances",
+        "https://www.sillaraparfums.com/es/resenhas/perfume-arabe-inverno",
+        "https://www.marie-claire.es/belleza/mejores-perfumes-arabes-druni-cena-invierno.html",
+        "https://www.importamosmdq.com.ar/blog/guia-de-perfumes-arabes-para-invierno-2026-los-mejores-para-el-frio",
+        "https://www.lattafaindia.com/products/khamrah",
+        "https://www.lattafaindia.com/products/khamrah-qahwa",
+        "https://afnan.com/products/9-pm",
+        "https://lattafa.com/product/raghba/",
+        "https://lattafa.com/product/oud-mood/",
+        "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+        "https://armaf.com/products/armaf-club-de-nuit-untold"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-para-invierno.jpg",
+      "image_prompt": "Original editorial winter still life of unbranded perfume bottles, amber resins, vanilla pods, cinnamon sticks, dates, tonka-like beans, soft wool scarf and Mediterranean winter light; no logos, labels, people, readable text or fake product evidence.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-05T04:14:00+02:00",
+        "workflow": "33938437425 completed_success",
+        "checks": [
+          "Magnific campaign article reverified before routine selection: HTTP 200, expected H1 and exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Selected next eligible workbook keyword after mejores perfumes árabes para verano: mejores perfumes árabes para invierno; prior 2026-09-03 local commit was unavailable and had not reached origin/main, so content was recreated from clean remote main.",
+          "Local SEO/content audit passed: 2256 visible words, one H1, canonical, OG image, Article/Breadcrumb/FAQ JSON-LD, featured image alt text, real internal links and external source links.",
+          "Original featured image generated with built-in imagegen, optimized to JPG 1672x941 and saved as src/assets/mejores-perfumes-arabes-para-invierno.jpg.",
+          "npm ci completed in clean clone; npm repeated the existing fsevents install-scripts warning.",
+          "Local npm run build completed successfully with Eleventy.",
+          "Local static HTTP checks passed for article page, featured image, blog listing and sitemap.",
+          "Local Chrome desktop/mobile screenshots passed: H1 visible, featured image loaded and no obvious first-viewport clipping.",
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for content commit a358e89.",
+          "Final custom-domain article URL returned HTTP 200 with expected H1, canonical and OG/featured image reference.",
+          "Featured image returned HTTP 200 image/jpeg with 432422 bytes.",
+          "Blog index linked the article and showed 5 de septiembre de 2026.",
+          "Sitemap contained the article URL.",
+          "Live Chrome headless desktop/mobile screenshots showed expected H1 and loaded featured image."
+        ],
+        "deployment_checks": [
+          "Attempt 1 verified article, image, blog listing and sitemap with browser User-Agent after Cloudflare deployment."
+        ],
+        "limitations": [
+          "The shared workspace checkout at /Users/erikhsu/Documents/begosmujerbonita-com still hangs on git status/git object reads, so publication used clean clone /private/tmp/begos-publish-20260905 from remote main."
+        ]
+      }
     }
   ]
 }
