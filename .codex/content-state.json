@@ -1156,6 +1156,64 @@
           "The shared workspace checkout at /Users/erikhsu/Documents/begosmujerbonita-com still hangs on git status/git object reads, so publication used clean clone /private/tmp/begos-publish-20260905 from remote main."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-06T04:20:00+02:00",
+      "keyword": "mejores perfumes árabes florales",
+      "priority": "Media",
+      "slug": "mejores-perfumes-arabes-florales",
+      "title": "Mejores perfumes árabes florales: 7 opciones con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-florales/",
+      "status": "published",
+      "published_at": "2026-09-06T04:20:00+02:00",
+      "article_commit": "2347db1",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume articles target generic women's Arabic perfumes, sweet perfumes, summer/winter seasonality, longevity, gifting, brand opinions and Alicante/Calpe buying. This article narrows the intent to floral Arabic perfumes by rose, jasmine, peony, white floral, musk floral and floral oud profiles, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "Google ES-style SERP for 'mejores perfumes árabes florales' is commercial/BOFU but less mature than broader Arabic perfume queries: boutique guides, general rankings, official brand collections and perfume database/review pages appear.",
+        "Comparable pages commonly mix floral, fruity, sweet and oriental perfumes, with repeated entities such as Lattafa Yara, Mayar, Fakhar Rose, Afnan Bouquet/Souvenir, Armaf Club de Nuit Woman and Swiss Arabian Layali.",
+        "Competitor gaps: little separation between rose, jasmine, peony, white floral, musk floral and floral oud; weak climate guidance for Mediterranean Spain; many claims rely on popularity or longevity without enough caveats.",
+        "Final angle: seven-option BOFU comparison by floral profile and use case, using official notes where available, conservative language and no invented prices, tests, reviews or guaranteed duration."
+      ],
+      "sources": [
+        "https://privateriche.com/blog/perfumes-arabes-florales",
+        "https://www.sillaraparfums.com/es/resenhas/perfumes-arabes-frutados",
+        "https://perfumeprimitive.com/articulos/mejores-perfumes-arabes-2026/",
+        "https://www.fraganc.com/es/rankings/los-7-mejores-perfumes-arabes-para-mujer-relacion-calidad-precio-2026",
+        "https://us.afnan.com/collections/bouquet",
+        "https://us.afnan.com/collections/souvenir",
+        "https://lattafa.com/product/mayar/",
+        "https://lattafa-usa.com/products/lattafa-yara-eau-de-parfum-for-women",
+        "https://us.afnan.com/products/souvenir-floral-bouquet",
+        "https://us.afnan.com/products/mystique-bouquet",
+        "https://armaf.com/products/club-de-nuit-w",
+        "https://us.swissarabian.com/products/layali",
+        "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Fakhar-Rose-70466.html"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-florales.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-06T04:20:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on the custom domain",
+          "Expected H1 present on live custom domain",
+          "Canonical matched final URL",
+          "Open Graph image referenced final featured image",
+          "Featured image returned HTTP 200 image/jpeg with expected 368799 byte asset",
+          "Blog index linked the article and displayed 6 de septiembre de 2026",
+          "Sitemap contained the article URL with 2026-09-06 lastmod",
+          "Article, Breadcrumb and FAQ JSON-LD parsed successfully",
+          "Local SEO/content audit passed: 2388 visible words, one H1, canonical, OG image, alt text, internal links and external links",
+          "npm ci and npm run build completed successfully in clean clone; npm reported existing two high-severity vulnerabilities and fsevents allowScripts warning",
+          "Live desktop/mobile browser checks passed at 1366x900 and 390x844: H1 visible, featured image loaded, no horizontal overflow, mobile table contained and no console errors"
+        ],
+        "deployment_checks": [
+          "GitHub Actions deploy 34006148591 concluded success; workflow still emitted the existing noisy Node/Cloudflare annotations documented in prior runs",
+          "Public custom-domain article, image, blog listing and sitemap verified after deployment"
+        ]
+      }
     }
   ]
 }
