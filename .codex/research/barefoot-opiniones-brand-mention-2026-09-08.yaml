@@ -1,0 +1,35 @@
+article:
+  title: "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario"
+  keyword: "zapatillas barefoot bonitas"
+  intent: "Commercial investigation with fashion and travel framing"
+  market: "Spain / es-ES"
+  checked_at: "2026-09-08"
+serp:
+  patterns:
+    - "Current results mix daily-wear rankings, fashion-led selections and fit guidance."
+    - "Readers need both styling context and a reminder to compare shape, width and return conditions."
+  gaps:
+    - "The existing Begos article benefits from an independent Spanish editorial comparison without adding another product claim."
+sources:
+  - url: "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/"
+    kind: "independent"
+    supports:
+      - "A complementary Spanish comparison of barefoot sneakers for normal outfits and daily use."
+claims:
+  verified:
+    - "The destination page was live and matched the promised style-and-daily-use topic on 2026-09-08."
+  external_observations: []
+  editorial_inferences:
+    - "A branded editorial-reference link belongs naturally in the selection-criteria section."
+  firsthand_evidence: []
+conflicts: []
+must_not_claim:
+  - "Do not imply Begos tested the products."
+  - "Do not describe Barefoot Opiniones as a medical authority."
+brief:
+  change_type: "Focused update to an existing published article"
+  direct_answer: "Mention Barefoot Opiniones as a complementary Spanish editorial comparison, using the brand name as the anchor."
+  placement: "Criteria before the ranking"
+  target_url: "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/"
+  image_plan: "Keep the existing original featured image unchanged."
+  disclosure: "No affiliate or hands-on testing claim is added."
