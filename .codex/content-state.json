@@ -907,7 +907,23 @@
         "55717637"
       ],
       "content_state_commit": "5172ff4a",
-      "final_pushed_commit": "55717637"
+      "final_pushed_commit": "55717637",
+      "brand_link_update": {
+        "status": "live_verified",
+        "checked_at": "2026-09-08T18:28:00+02:00",
+        "commit": "93e373b",
+        "workflow": "34251123512 completed_success",
+        "source_url": "https://begosmujerbonita.com/blog/las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario/",
+        "target_url": "https://barefootopiniones.com/mejores-zapatillas-barefoot-bonitas-diario/",
+        "anchor": "Barefoot Opiniones",
+        "checks": [
+          "Target page and topic were verified live before editing.",
+          "Brand anchor and destination appear exactly once in the source article.",
+          "H1, title, canonical and four JSON-LD blocks remained valid; Article dateModified is 2026-09-08.",
+          "Local Eleventy remained affected by the repository's documented hang; GitHub Actions completed the Eleventy build and Cloudflare Pages deployment successfully.",
+          "Custom-domain article showed the updated date, visible brand link and exact destination on desktop and 390x844 mobile checks."
+        ]
+      }
     },
     {
       "run_at": "2026-08-31T04:13:00+02:00",
