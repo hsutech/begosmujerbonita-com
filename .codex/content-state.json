@@ -1284,6 +1284,56 @@
           "Sitemap contained the new article URL."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-12T04:05:00+02:00",
+      "keyword": "mejores regalos para mujer en Calpe",
+      "priority": "Pendiente reconciliado",
+      "slug": "mejores-regalos-para-mujer-en-calpe",
+      "title": "Mejores regalos para mujer en Calpe: 7 ideas con criterio",
+      "url": "https://begosmujerbonita.com/blog/mejores-regalos-para-mujer-en-calpe/",
+      "status": "published",
+      "published_at": "2026-09-12T04:08:00+02:00",
+      "article_commit": "4f1d614",
+      "deployment": {
+        "provider": "GitHub Actions / Cloudflare Pages",
+        "workflow_run": "34666700228",
+        "status": "success"
+      },
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Reconciled prior prepared article as this run single content item. Article targets local gifts in Calpe, distinct from existing perfume-only and Calpe perfume guides."
+      },
+      "serp_observations": [
+        "Current Spanish SERP remained mixed local/commercial: local directories and shopping locations for Calpe plus national gift guides from Vogue and GQ.",
+        "Comparable pages emphasize broad gift categories, beauty, fashion, accessories and perfume; useful gap is a local decision guide by risk, occasion and category.",
+        "Perfume gifting sources still support caution around scent personalisation, so the article avoids universal best claims, invented testing, prices or stock."
+      ],
+      "sources": [
+        "https://plazacentralcalpe.com/tiendas-y-restaurantes/",
+        "https://www.paginasamarillas.es/a/perfumerias/alicante/calp-calpe/",
+        "https://paucalp.com/moda-mujer/",
+        "https://tiendanovedadesalegre.com/",
+        "https://www.revistagq.com/moda/galeria/mejores-regalos-para-mujer",
+        "https://www.vogue.es/compras/articulos/regalos-originales-mujer",
+        "https://www.rituals.com/es-us/mag/home-and-lifestyle/guia-para-regalar-el-perfume-perfecto-FAc1DUmkQbDDbgd51Aa2l"
+      ],
+      "asset": "src/assets/mejores-regalos-mujer-calpe.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-12T04:08:00+02:00",
+        "checks": [
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for content commit 4f1d614.",
+          "Public article returned HTTP 200 with expected H1.",
+          "Canonical matched final URL.",
+          "Article schema datePublished/dateModified updated to 2026-09-12.",
+          "Featured image returned HTTP 200 image/jpeg at 1672x941 and loaded in live browser.",
+          "Blog listing linked the article with 12 de septiembre de 2026.",
+          "Sitemap contained the article URL with 2026-09-12 lastmod.",
+          "Local SEO/content audit passed: 2156 visible words, one H1, canonical, OG image, Article/Breadcrumb/FAQ JSON-LD, featured image alt, 18 internal links and 7 external links.",
+          "Local and live desktop/mobile render checks passed without detected horizontal overflow."
+        ]
+      }
     }
   ]
 }
