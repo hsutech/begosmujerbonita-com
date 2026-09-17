@@ -1334,6 +1334,46 @@
           "Local and live desktop/mobile render checks passed without detected horizontal overflow."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-18T11:45:00+02:00",
+      "keyword": "mejores perfumes árabes para otoño",
+      "priority": "Alta",
+      "slug": "mejores-perfumes-arabes-para-otono",
+      "title": "Mejores perfumes árabes para otoño: 7 opciones cálidas sin pasarse",
+      "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-otono/",
+      "status": "prepared_pending_publication",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Target is autumn transition and mild Mediterranean use; distinct from published summer, winter, vanilla, sweet, floral, women and long-lasting Arabic perfume guides."
+      },
+      "serp_observations": [
+        "2026-09-18 live recheck: current Spanish SERP is BOFU/commercial; listicles, retailer guides and seasonal beauty articles dominate.",
+        "Comparable pages emphasize warm but wearable autumn profiles: spices, woods, soft gourmand notes, amber, vanilla, coffee, musk and creamy florals.",
+        "SERP gap: many results blur autumn and winter or overstate performance; this guide separates daily mild-weather use from night/event use and avoids guaranteed longevity claims.",
+        "Chosen structure: direct answer, table of contents, comparison table, seven-option listicle, climate/occasion advice, cautions and FAQ."
+      ],
+      "sources": [
+        "https://www.sillaraparfums.com/es/resenhas/perfume-arabe-outono",
+        "https://parfumorient.com/es/blogs/noticias/los-mejores-perfumes-arabes-para-otono-e-invierno-de-2026-nuestras-selecciones-orientales-mas-calidas",
+        "https://www.tvazteca.com/aztecauno/estilo-de-vida/5-perfumes-arabes-frescos-otono-2026/",
+        "https://scentcritic.com/es/guias/mejores-perfumes-mujer-otono",
+        "https://cosmeticapremium.es/blogs/cosmeticapremium/mejores-perfumes-otono-2026",
+        "https://lattafa-usa.com/products/asad-bourbon-eau-de-parfum-spray-for-everyone",
+        "https://www.lattafaindia.com/products/khamrah-qahwa",
+        "https://lattafa-usa.com/products/angham-eau-de-parfum-spray-for-everyone",
+        "https://afnan.com/products/9-pm",
+        "https://us.swissarabian.com/products/shaghaf-oud-tonka",
+        "https://lattafa-usa.com/products/fakhar-for-man-eau-de-parfum-spray-100ml",
+        "https://armaf.com/products/armaf-club-de-nuit-untold"
+      ],
+      "asset": "src/assets/mejores-perfumes-arabes-para-otono.jpg",
+      "research_ledger": ".codex/research/mejores-perfumes-arabes-para-otono-2026-09-18.yaml",
+      "verification": {
+        "status": "pending_publication",
+        "checked_at": null,
+        "checks": []
+      }
     }
   ]
 }
