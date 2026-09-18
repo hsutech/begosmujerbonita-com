@@ -1342,7 +1342,9 @@
       "slug": "mejores-perfumes-arabes-para-otono",
       "title": "Mejores perfumes árabes para otoño: 7 opciones cálidas sin pasarse",
       "url": "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-para-otono/",
-      "status": "prepared_pending_publication",
+      "status": "published",
+      "published_at": "2026-09-18T04:10:00+02:00",
+      "article_commit": "ee4e378",
       "canibalization_check": {
         "result": "clear",
         "notes": "Target is autumn transition and mild Mediterranean use; distinct from published summer, winter, vanilla, sweet, floral, women and long-lasting Arabic perfume guides."
@@ -1370,9 +1372,19 @@
       "asset": "src/assets/mejores-perfumes-arabes-para-otono.jpg",
       "research_ledger": ".codex/research/mejores-perfumes-arabes-para-otono-2026-09-18.yaml",
       "verification": {
-        "status": "pending_publication",
-        "checked_at": null,
-        "checks": []
+        "status": "verified",
+        "checked_at": "2026-09-18T04:10:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on the custom domain.",
+          "Expected H1 present on live custom domain.",
+          "Canonical matched final URL.",
+          "Article date and schema used 2026-09-18.",
+          "Featured image referenced by the article and returned HTTP 200 image/jpeg.",
+          "Blog index linked the article with 18 de septiembre de 2026.",
+          "Sitemap contained the article URL with 2026-09-18 lastmod.",
+          "Magnific campaign article remained live with exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Local desktop and mobile Chrome render screenshots passed for H1, date and featured image visibility."
+        ]
       }
     }
   ]
