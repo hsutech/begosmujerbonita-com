@@ -14,6 +14,13 @@ export default function(eleventyConfig) {
     );
   });
 
+  eleventyConfig.ignores.add("src/404.html");
+  eleventyConfig.addPassthroughCopy({ "src/404.html": "404.html" });
+
+  eleventyConfig.addPassthroughCopy({ "src/_headers": "_headers" });
+
+  eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
+
   return {
     dir: {
       input: "src",
