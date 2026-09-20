@@ -1,0 +1,62 @@
+article:
+  title: "Mejores bolsos para regalar: 7 ideas para acertar sin conocer todo su armario"
+  keyword: "mejores bolsos para regalar"
+  intent: "Comercial / transaccional BOFU"
+  market: "Google ES / Calp y Alicante"
+  language: "Español"
+  checked_at: "2026-09-20"
+serp:
+  patterns:
+    - "La SERP combina colecciones ecommerce, guías de marca y listados editoriales de medios."
+    - "Las páginas relevantes resuelven compra/regalo: formato, ocasión, utilidad, color, material y presupuesto."
+    - "Se repiten bandoleras, shoppers/totes, bolsos medianos, clutchs de evento, tonos neutros y bolsos de piel."
+    - "Los artículos mejor alineados usan H2 prácticos, preguntas frecuentes, tablas o listados por ocasión."
+  gaps:
+    - "Muchos resultados recomiendan productos concretos o tendencias sin separar bien el riesgo de regalar."
+    - "Poca cobertura local o de boutique sobre cómo describir la necesidad antes de pedir recomendación."
+    - "Algunas páginas mezclan evento, diario y trabajo sin advertir que un formato especializado se usará menos."
+sources:
+  - url: "https://www.thecode.es/collections/bolsos-para-regalar"
+    kind: "competitor ecommerce"
+    supports:
+      - "Categorías comerciales de bolsos para regalar: bandolera, shopper, sobre, saco, mediano, de mano."
+  - url: "https://www.tous.com/es-es/blog/bolsos-para-regalar"
+    kind: "brand guide"
+    supports:
+      - "Elección por estilo, utilidad, tamaño, color, versatilidad y presupuesto."
+  - url: "https://www.lolilu.co/blogs/noticias/bolsos-para-regalar-mujer"
+    kind: "competitor editorial"
+    supports:
+      - "Regalo de bolso como decisión de textura, silueta e intención según cómo viste la persona."
+  - url: "https://peterandwolfbcn.com/bolsos-para-regalo/"
+    kind: "competitor editorial"
+    supports:
+      - "Preguntas sobre estilo de vida y desplazamiento antes de elegir bolso o mochila."
+  - url: "https://elpais.com/escaparate/estilo-de-vida/2025-12-20/regalos-que-siempre-funcionan-bolsos-y-bandoleras-con-estilo-para-sorprender-en-cualquier-ocasion.html"
+    kind: "independent media"
+    supports:
+      - "Bandoleras y bolsos como regalos prácticos por necesidades de día a día, trabajo, salida o viaje."
+  - url: "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026"
+    kind: "fashion media"
+    supports:
+      - "Bolsos de invitada y fiesta como accesorio de evento con personalidad."
+  - url: "https://www.revistavanityfair.es/galerias/bolsos-invitada-boda"
+    kind: "fashion media"
+    supports:
+      - "Bolsos de ceremonia y evento como complemento que remata el look."
+claims:
+  verified:
+    - "Begos Mujer Bonita tiene categoría de bolsos y ficha orientativa de Bolso Piel Nobuck Mia."
+    - "La página de Magnific sigue viva y contiene exactamente un enlace seguido con el anchor requerido."
+  external_observations:
+    - "Las guías comparables priorizan utilidad, tamaño, color neutro, material y ocasión."
+    - "Las páginas de evento separan clutchs y bolsos de invitada de opciones de diario."
+  editorial_inferences:
+    - "Una guía por tipos de bolso reduce el riesgo de inventar disponibilidad, precios o reseñas."
+    - "La tarjeta regalo es una recomendación prudente cuando falta información sobre color, material o tamaño."
+  firsthand_evidence: []
+conflicts: []
+must_not_claim:
+  - "No afirmar stock actual, precios, ventas, opiniones de clientas o pruebas personales no documentadas."
+  - "No presentar la imagen generada como producto real ni como fotografía de tienda."
+  - "No decir que un material dura para siempre o es impermeable si la ficha no lo acredita."
