@@ -1386,6 +1386,79 @@
           "Local desktop and mobile Chrome render screenshots passed for H1, date and featured image visibility."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-20T09:21:00+02:00",
+      "keyword": "mejores perfumes árabes frescos",
+      "priority": "Media",
+      "slug": "mejores-perfumes-arabes-frescos",
+      "title": "Mejores perfumes árabes frescos",
+      "url": null,
+      "status": "skipped",
+      "skipped_at": "2026-09-20T09:21:00+02:00",
+      "skip_reason": "Canibalización: la intención fresca, limpia, cítrica y acuática queda cubierta por el artículo publicado de mejores perfumes árabes para verano, que ya orienta la compra por calor, frescor y uso mediterráneo.",
+      "canibalization_check": {
+        "result": "skip",
+        "notes": "Reconfirmado antes de seleccionar el siguiente tema: el repo ya cubre perfumes árabes frescos desde el ángulo verano/frescor; crear otro listicle duplicaría intención y entidades principales."
+      }
+    },
+    {
+      "run_at": "2026-09-20T09:21:00+02:00",
+      "keyword": "mejores bolsos para regalar",
+      "priority": "Baja",
+      "slug": "mejores-bolsos-para-regalar",
+      "title": "Mejores bolsos para regalar: 7 ideas para acertar sin conocer todo su armario",
+      "url": "https://begosmujerbonita.com/blog/mejores-bolsos-para-regalar/",
+      "status": "published",
+      "published_at": "2026-09-20T09:21:00+02:00",
+      "article_commit": "64f095d",
+      "deployment": {
+        "provider": "GitHub Actions / Cloudflare Pages",
+        "workflow_run": "35496553842",
+        "status": "success"
+      },
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing gift and fashion articles cover general local gifts, looks, dresses, shoes and bags in outfits. This article targets BOFU gift selection specifically for handbag formats, size, color, material and occasion, with distinct slug and H1."
+      },
+      "serp_observations": [
+        "Current Spain SERP is commercial/BOFU, mixing ecommerce gift collections, brand buying guides and media listicles for event bags.",
+        "Comparable pages emphasize bandoleras, shoppers/totes, medium bags, clutches, color neutrality, material and utility by occasion.",
+        "SERP gap: many pages promote product lists without separating the risk of gifting a format that only works for one occasion.",
+        "Chosen structure: direct answer, table of contents, comparison table, seven gift-oriented handbag types, buying cautions and FAQ."
+      ],
+      "sources": [
+        "https://www.thecode.es/collections/bolsos-para-regalar",
+        "https://www.tous.com/es-es/blog/bolsos-para-regalar",
+        "https://www.lolilu.co/blogs/noticias/bolsos-para-regalar-mujer",
+        "https://peterandwolfbcn.com/bolsos-para-regalo/",
+        "https://elpais.com/escaparate/estilo-de-vida/2025-12-20/regalos-que-siempre-funcionan-bolsos-y-bandoleras-con-estilo-para-sorprender-en-cualquier-ocasion.html",
+        "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026",
+        "https://www.revistavanityfair.es/galerias/bolsos-invitada-boda"
+      ],
+      "asset": "src/assets/mejores-bolsos-para-regalar.jpg",
+      "research_ledger": ".codex/research/mejores-bolsos-para-regalar-2026-09-20.yaml",
+      "image_prompt": "Original editorial still life of unbranded women handbag gift ideas in a warm boutique setting; no logos, readable text, people, fake product labels or watermarks.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-20T09:21:00+02:00",
+        "checks": [
+          "Magnific campaign article reverified before routine selection: HTTP 200, expected H1/canonical and exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Local SEO/content audit passed: 2123 visible words, one H1, canonical, OG image, BlogPosting/Breadcrumb/FAQ JSON-LD, featured image alt text, real internal links and external source links.",
+          "Original featured image generated with built-in imagegen, optimized to JPEG 1672x941 and saved as src/assets/mejores-bolsos-para-regalar.jpg.",
+          "npm ci completed with existing fsevents allowScripts warning; npm run build completed successfully.",
+          "Local HTTP checks passed for article page, featured image, blog listing and sitemap.",
+          "Local and public Chrome headless desktop/mobile screenshots showed expected H1/date/featured image and no obvious first-viewport overflow after CSS adjustment.",
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for content commit 64f095d.",
+          "Final custom-domain article URL returned HTTP 200 with expected H1, canonical and OG/featured image reference.",
+          "Featured image returned HTTP 200 image/jpeg with 426269 bytes.",
+          "Blog index linked the article and showed 20 de septiembre de 2026.",
+          "Sitemap contained the article URL with 2026-09-20 lastmod."
+        ],
+        "deployment_checks": [
+          "Attempt 1 verified article, image, blog listing and sitemap with browser User-Agent after Cloudflare deployment."
+        ]
+      }
     }
   ]
 }
