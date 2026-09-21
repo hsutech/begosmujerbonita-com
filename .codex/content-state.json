@@ -1459,6 +1459,54 @@
           "Attempt 1 verified article, image, blog listing and sitemap with browser User-Agent after Cloudflare deployment."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-21T04:22:00+02:00",
+      "keyword": "mejores vestidos de fiesta para mujer",
+      "priority": "Baja",
+      "slug": "mejores-vestidos-de-fiesta-para-mujer",
+      "title": "Mejores vestidos de fiesta para mujer: 7 opciones según evento y estilo",
+      "url": "https://begosmujerbonita.com/blog/mejores-vestidos-de-fiesta-para-mujer/",
+      "status": "published",
+      "published_at": "2026-09-21T04:22:00+02:00",
+      "article_commit": "816ac87",
+      "canibalization_check": {
+        "result": "clear_with_differentiation",
+        "notes": "Existing article /blog/como-elegir-un-vestido-de-fiesta-sin-comprar-por-impulso/ is a general buying guide. This new article is a BOFU listicle comparing seven dress types by event, silhouette, fabric and reuse."
+      },
+      "serp_observations": [
+        "Google ES-style results for vestidos de fiesta/invitada are BOFU/editorial: trend articles, galleries, wedding guides and store-led lists dominate.",
+        "Comparable pages emphasize guest dresses for 2026, midi and long formats, satin, florals, sleeves, black evening dresses, Spanish occasionwear brands, colors and accessories.",
+        "Common gaps: less practical detail on movement, total outfit cost, reuse, local boutique advice, climate and avoiding one-photo impulse purchases.",
+        "Final structure: direct answer, SERP interpretation, comparison table, seven dress-type listicle, buying checklist and FAQ."
+      ],
+      "sources": [
+        "https://www.vogue.es/articulos/tendencias-vestidos-invitada-boda-primavera-verano-2026",
+        "https://www.bodas.net/articulos/tendencias-vestidos-de-fiesta--c7847",
+        "https://www.lavanguardia.com/magazine/moda/20260511/11533552/guia-basica-vestidos-invitada.html",
+        "https://www.weddings.help/blog/vestidos-fiesta-invitada-boda-guia-estilo",
+        "https://www.vogue.es/galerias/vestidos-invitada-boda-rebajas-2026",
+        "https://www.vogue.es/articulos/marcas-vestidos-invitada-tendencias-bodas-2026",
+        "https://www.vogue.es/novias/galerias/tiendas-vestidos-invitadas-de-boda-madrid-barcelona-sevilla-malaga"
+      ],
+      "asset": "src/assets/mejores-vestidos-fiesta-mujer.jpg",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-21T04:22:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on custom domain",
+          "Expected H1 present",
+          "Canonical matched final URL",
+          "Open Graph image referenced final image",
+          "Featured image returned HTTP 200 image/jpeg",
+          "Blog index linked the article",
+          "Sitemap contained the article URL with 2026-09-21 lastmod",
+          "Article JSON-LD included BlogPosting, BreadcrumbList and FAQPage graph",
+          "Local build completed successfully",
+          "Local desktop and mobile headless screenshots rendered H1 and featured image without visible overlap",
+          "Magnific campaign backlink reverified as exactly one followed editorial link"
+        ]
+      }
     }
   ]
 }
