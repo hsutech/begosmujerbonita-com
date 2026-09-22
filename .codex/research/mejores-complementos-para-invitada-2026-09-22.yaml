@@ -1,0 +1,63 @@
+article:
+  title: "Mejores complementos para invitada: 7 piezas para elevar el look sin recargarlo"
+  keyword: "mejores complementos para invitada"
+  intent: "Comercial / transaccional BOFU"
+  market: "Google ES / Calp y Alicante"
+  language: "Español"
+  checked_at: "2026-09-22"
+serp:
+  patterns:
+    - "La SERP combina medios de moda, guías de boda y tiendas especializadas en invitada."
+    - "Los resultados relevantes cubren bolso, zapatos, joyas, tocados, cinturones, capas, chal y coordinación cromática."
+    - "Los formatos más útiles son guías por accesorio, listicles con productos y artículos de inspiración visual."
+    - "Las páginas mejor alineadas insisten en equilibrio con el vestido, horario, tipo de celebración y comodidad."
+  gaps:
+    - "Muchas páginas muestran productos o tendencias sin priorizar reutilización y comodidad real."
+    - "Poca separación entre accesorios protagonistas y accesorios funcionales."
+    - "Escasa orientación sobre cuándo quitar piezas para no saturar el look."
+sources:
+  - url: "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026"
+    kind: "fashion media"
+    supports:
+      - "Bolsos de invitada como accesorio clave; clutchs, abalorios, rafia, metalizados y bolsos joya."
+  - url: "https://www.bodas.net/articulos/complementos-invitada-boda--c8204"
+    kind: "wedding guide"
+    supports:
+      - "Complementos por función: zapatos, bolso, cinturón, abrigo, guantes, tocados y joyas."
+  - url: "https://luciasecasa.com/complementos/bolsos-para-bodas-conviertete-la-perfecta-invitada/"
+    kind: "wedding media"
+    supports:
+      - "Bolso como pieza que puede equilibrar o transformar un look de invitada."
+  - url: "https://www.matildecano.es/es/blog/post/complementos-invitada-boda-como-completar-tu-look-con-estilo.html"
+    kind: "brand guide"
+    supports:
+      - "Bolso, zapatos, tocado y joyas deben coordinar con vestido, horario y celebración."
+  - url: "https://senzabrand.com/blogs/nuestro-blog/bolso-invitada-boda-como-combinar-accesorios-joyas"
+    kind: "brand guide"
+    supports:
+      - "Coordinación por armonía cromática, contraste de texturas y equilibrio visual."
+  - url: "https://www.larazon.es/lifestyle/moda/accesorios-que-elevaran-tus-looks-invitada-esta-temporada-seguiras-usando-despues_202605226a0dd08147d35c454e0a9ff1.html"
+    kind: "media"
+    supports:
+      - "Accesorios reutilizables: joyas escultóricas, bolsos con textura y capas ligeras."
+  - url: "https://www.hola.com/novias/20260616907331/zapatos-de-novias-invitada-comodos-elegantisimos/"
+    kind: "fashion media"
+    supports:
+      - "Zapatos elegantes y cómodos como parte decisiva del look."
+claims:
+  verified:
+    - "Begos Mujer Bonita tiene categorías internas de fiesta, bolsos, colgantes y perfumes."
+    - "El tema no duplica la guía de vestidos ni la guía de bolsos para regalar; se enfoca en accesorios de invitada por función."
+    - "La página de la campaña Magnific sigue viva y contiene exactamente un enlace seguido con el anchor requerido."
+  external_observations:
+    - "Las guías comparables priorizan bolso, zapato, joya, tocado y capas como complementos principales."
+    - "La comodidad del calzado y la armonía con el vestido aparecen como criterios recurrentes."
+  editorial_inferences:
+    - "Una guía por función evita convertir la pieza en otra lista de bolsos o vestidos."
+    - "Reutilización, logística y una sola pieza protagonista son criterios prácticos para mejorar la compra."
+  firsthand_evidence: []
+conflicts: []
+must_not_claim:
+  - "No afirmar stock actual, precios, ventas, opiniones de clientas o pruebas personales no documentadas."
+  - "No presentar la imagen generada como producto real ni como fotografía de tienda."
+  - "No imponer reglas universales de protocolo; tratar horario y dress code como criterios contextuales."
