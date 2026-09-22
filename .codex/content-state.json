@@ -1507,6 +1507,64 @@
           "Magnific campaign backlink reverified as exactly one followed editorial link"
         ]
       }
+    },
+    {
+      "run_at": "2026-09-22T04:18:00+02:00",
+      "keyword": "mejores complementos para invitada",
+      "priority": "Baja",
+      "slug": "mejores-complementos-para-invitada",
+      "title": "Mejores complementos para invitada: 7 piezas para elevar el look sin recargarlo",
+      "url": "https://begosmujerbonita.com/blog/mejores-complementos-para-invitada/",
+      "status": "published",
+      "published_at": "2026-09-22T04:18:00+02:00",
+      "article_commit": "40d8462",
+      "deployment": {
+        "provider": "GitHub Actions / Cloudflare Pages",
+        "workflow_run": "35678887178",
+        "status": "success"
+      },
+      "canibalization_check": {
+        "result": "clear_with_differentiation",
+        "notes": "Existing articles cover party dresses and handbag gifts. This article targets invitada accessories by function: bag, shoes, jewelry, headpiece, light layer, belt and perfume, so it avoids duplicating dress or handbag-only intent."
+      },
+      "serp_observations": [
+        "Current Google ES-style results are BOFU/editorial, mixing wedding guides, fashion media and specialist brand guides.",
+        "Comparable pages emphasize bags, comfortable shoes, jewelry, headpieces, light layers, belts, color harmony and matching accessories to the dress, schedule and celebration type.",
+        "Common gaps: many pages show products or trends without enough guidance on reuse, comfort, when to remove pieces and how to avoid overloading the look.",
+        "Final structure: direct answer, SERP interpretation, comparison table, seven accessory-function listicle, styling rules, sources and FAQ."
+      ],
+      "sources": [
+        "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026",
+        "https://www.bodas.net/articulos/complementos-invitada-boda--c8204",
+        "https://luciasecasa.com/complementos/bolsos-para-bodas-conviertete-la-perfecta-invitada/",
+        "https://www.matildecano.es/es/blog/post/complementos-invitada-boda-como-completar-tu-look-con-estilo.html",
+        "https://senzabrand.com/blogs/nuestro-blog/bolso-invitada-boda-como-combinar-accesorios-joyas",
+        "https://www.larazon.es/lifestyle/moda/accesorios-que-elevaran-tus-looks-invitada-esta-temporada-seguiras-usando-despues_202605226a0dd08147d35c454e0a9ff1.html",
+        "https://www.hola.com/novias/20260616907331/zapatos-de-novias-invitada-comodos-elegantisimos/"
+      ],
+      "asset": "src/assets/mejores-complementos-invitada.jpg",
+      "research_ledger": ".codex/research/mejores-complementos-para-invitada-2026-09-22.yaml",
+      "image_prompt": "Original editorial still life of unbranded wedding guest accessories in a warm boutique setting; no logos, readable text, people, fake product labels or watermarks.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-22T04:18:00+02:00",
+        "checks": [
+          "Magnific campaign article reverified before routine selection: HTTP 200, expected H1/canonical and exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Local SEO/content audit passed: 2014 visible words, one H1, canonical, OG image, BlogPosting/WebPage/Breadcrumb/FAQ JSON-LD graph, featured image alt text, real internal links and external source links.",
+          "Original featured image generated with built-in imagegen, optimized to JPEG 1672x941 and saved as src/assets/mejores-complementos-invitada.jpg.",
+          "npm ci completed with existing fsevents allowScripts warning; npm run build completed successfully.",
+          "Local HTTP checks passed for article page, featured image, blog listing and sitemap.",
+          "Local and public Chrome headless desktop/mobile screenshots showed expected H1/date/featured image and no obvious first-viewport overflow.",
+          "GitHub Actions Deploy to Cloudflare Pages completed successfully for content commit 40d8462.",
+          "Final custom-domain article URL returned HTTP 200 with expected H1, canonical and OG/featured image reference.",
+          "Featured image returned HTTP 200 image/jpeg with JPEG signature and 479656 bytes.",
+          "Blog index linked the article and showed 22 de septiembre de 2026.",
+          "Sitemap contained the article URL with 2026-09-22 lastmod."
+        ],
+        "deployment_checks": [
+          "Attempt 1 verified article, H1, canonical, image reference, blog listing, sitemap and Magnific backlink; image content type was confirmed in a follow-up header/signature check."
+        ]
+      }
     }
   ]
 }
