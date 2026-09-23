@@ -1,0 +1,68 @@
+article:
+  title: "Perfumes árabes para bodas: guía para novia, invitada y noche sin pasarse"
+  keyword: "perfumes árabes para bodas"
+  intent: "Informacional con salida comercial / BOFU"
+  market: "Google ES / Calp y Alicante"
+  language: "Español"
+  checked_at: "2026-09-23"
+serp:
+  patterns:
+    - "Los resultados relevantes mezclan guías de perfumerías, fichas comerciales y artículos de ocasión centrados en papel, horario y clima."
+    - "Private Riche estructura la intención por novia, invitada, invitado y regalo."
+    - "Orient Fragance enfatiza boda y ocasión especial con perfiles orientales de oud, rosa, ámbar, especias y aplicación prudente."
+    - "Perfumes Sinfonía compara boda, verano y oficina, reforzando que el uso y el espacio cambian la elección."
+    - "Arome México y Wikiparfum, aunque no solo árabes, sostienen el criterio de papel, horario, clima y cercanía."
+  gaps:
+    - "Muchas páginas recomiendan productos sin explicar cuándo bajar intensidad en ceremonia o banquete."
+    - "Falta adaptación a clima mediterráneo local y a compra real de tienda."
+    - "Varias páginas prometen elegancia o duración sin separar prueba en piel, secado, mesa cercana y riesgo de compra a ciegas."
+sources:
+  - url: "https://privateriche.com/blog/perfumes-arabes-para-boda"
+    kind: "competitor"
+    supports:
+      - "Estructura por papel en la boda y perfumes árabes/orientales para ceremonia."
+  - url: "https://www.orientfragance.com/blogs/perfumes-arabes-blog/perfumes-para-bodas-que-usar-en-el-gran-dia"
+    kind: "competitor"
+    supports:
+      - "Intención de búsqueda específica de perfumes árabes para bodas y tipos de asistentes."
+  - url: "https://perfumessinfonia.com/perfumes-arabes-para-boda-verano-y-oficina-guia-para-elegir-el-aroma-ideal/"
+    kind: "competitor"
+    supports:
+      - "Necesidad de elegir por escenario, no usar el mismo perfume para boda, verano y oficina."
+  - url: "https://arome.mx/blogs/blog/guia-de-perfumes-para-boda"
+    kind: "independent"
+    supports:
+      - "Criterios de papel, horario, clima y aplicación moderada en bodas."
+  - url: "https://www.wikiparfum.com/es/blog/el-perfume-de-tu-boda-guia-para-elegir-la-fragancia-perfecta-para-novias-y-novios"
+    kind: "independent"
+    supports:
+      - "Elección de fragancia de boda por contexto y personalidad."
+  - url: "https://lattafa.com/product/yara/"
+    kind: "official"
+    supports:
+      - "Notas oficiales de Yara: tangerina, heliotropo, orquídea, notas tropicales, vainilla, sándalo y almizcle."
+  - url: "https://lattafa.com/product/khamrah-qahwa/"
+    kind: "official"
+    supports:
+      - "Perfil gourmand/especiado de Khamrah Qahwa para la lectura de noche."
+  - url: "https://us.afnan.com/products/souvenir-floral-bouquet"
+    kind: "official"
+    supports:
+      - "Notas oficiales de Souvenir Floral Bouquet como ejemplo floral-amable para regalo."
+claims:
+  verified:
+    - "El artículo nuevo se diferencia de guías existentes al centrarse en bodas por papel, horario, clima y aplicación."
+    - "No se prometen duraciones universales ni se afirma experiencia personal."
+    - "La imagen destacada es original, editorial y sin marcas reconocibles."
+  external_observations:
+    - "La SERP ofrece guías y productos, pero pocas páginas desarrollan la moderación por ceremonia, banquete y clima mediterráneo."
+  editorial_inferences:
+    - "Para bodas de día convienen perfiles más luminosos; para noche hay más margen para ámbar, especias y vainilla, con dosificación."
+    - "Comprar por secado y contexto reduce riesgo frente a elegir solo por primer impacto o popularidad."
+  firsthand_evidence: []
+conflicts:
+  - "Algunos comparables comerciales recomiendan productos concretos; el artículo evita rankings absolutos por no haber prueba propia documentada."
+must_not_claim:
+  - "No afirmar que un perfume dura toda la boda en cualquier piel."
+  - "No inventar stock, precio, reseñas, pruebas propias ni disponibilidad local."
+  - "No presentar imagen generada como foto de producto real."
