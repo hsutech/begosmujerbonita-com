@@ -1565,6 +1565,54 @@
           "Attempt 1 verified article, H1, canonical, image reference, blog listing, sitemap and Magnific backlink; image content type was confirmed in a follow-up header/signature check."
         ]
       }
+    },
+    {
+      "run_at": "2026-09-23T08:55:00+02:00",
+      "keyword": "perfumes árabes para bodas",
+      "priority": "Baja",
+      "slug": "perfumes-arabes-para-bodas",
+      "title": "Perfumes árabes para bodas: guía para novia, invitada y noche sin pasarse",
+      "url": "https://begosmujerbonita.com/blog/perfumes-arabes-para-bodas/",
+      "status": "published",
+      "published_at": "2026-09-23T08:55:00+02:00",
+      "article_commit": "ec9f06f",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-09-23T08:55:00+02:00",
+        "checks": [
+          "Final URL returned HTTP 200 on custom domain",
+          "Expected H1 present",
+          "Canonical matched final URL",
+          "Featured image reference present and image returned HTTP 200 image/jpeg with JPEG signature",
+          "Blog index linked the article",
+          "Sitemap contained the article URL",
+          "Local npm ci and npm run build completed successfully",
+          "Local and live desktop/mobile Chrome screenshots rendered H1 and featured image without obvious overlap",
+          "Magnific campaign backlink remained exactly one followed link to https://www.magnific.com/ai/image-generator"
+        ],
+        "github_actions_run": "35828935734"
+      },
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing perfume articles cover generic best lists, gifting, seasons and opinions; this article targets wedding fragrance choice by role, timing, climate, application and moderation. It is also distinct from the invitada accessories article, where perfume is only one accessory."
+      },
+      "serp_observations": [
+        "Current Spanish SERP for 'perfumes árabes para bodas' is BOFU/commercial-informational: perfume shop guides, occasion articles and fragrance-selection pages dominate.",
+        "Comparable sources organize the topic by bride, guest, groom/gift, wedding timing, climate, oriental notes and application etiquette.",
+        "Common gaps include weak moderation advice for ceremony/banquet proximity, little local Mediterranean climate framing and broad product recommendations without skin-test cautions.",
+        "Final angle: practical wedding perfume guide using seven buying situations rather than another generic Arabic perfume ranking."
+      ],
+      "sources": [
+        "https://privateriche.com/blog/perfumes-arabes-para-boda",
+        "https://www.orientfragance.com/blogs/perfumes-arabes-blog/perfumes-para-bodas-que-usar-en-el-gran-dia",
+        "https://perfumessinfonia.com/perfumes-arabes-para-boda-verano-y-oficina-guia-para-elegir-el-aroma-ideal/",
+        "https://arome.mx/blogs/blog/guia-de-perfumes-para-boda",
+        "https://www.wikiparfum.com/es/blog/el-perfume-de-tu-boda-guia-para-elegir-la-fragancia-perfecta-para-novias-y-novios",
+        "https://lattafa.com/product/yara/",
+        "https://lattafa.com/product/khamrah-qahwa/",
+        "https://us.afnan.com/products/souvenir-floral-bouquet"
+      ],
+      "asset": "src/assets/perfumes-arabes-para-bodas.jpg"
     }
   ]
 }
