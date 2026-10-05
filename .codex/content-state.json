@@ -1613,6 +1613,91 @@
         "https://us.afnan.com/products/souvenir-floral-bouquet"
       ],
       "asset": "src/assets/perfumes-arabes-para-bodas.jpg"
+    },
+    {
+      "run_at": "2026-10-02T12:10:19+02:00",
+      "keyword": "cómo elegir un perfume árabe",
+      "priority": "Baja",
+      "slug": "como-elegir-un-perfume-arabe",
+      "title": "Cómo elegir un perfume árabe: guía práctica para acertar sin comprar por hype",
+      "url": "https://begosmujerbonita.com/blog/como-elegir-un-perfume-arabe/",
+      "status": "published",
+      "published_at": "2026-10-02T12:10:19+02:00",
+      "article_commit": "0d8af70",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-10-02T12:10:19+02:00",
+        "checks": [
+          "Reconciled from live repository state during 2026-10-05 run because the article existed on origin/main but was missing from content-state.json.",
+          "Public article previously verified in automation memory: HTTP 200, expected H1, canonical, featured image, blog listing and sitemap.",
+          "Magnific campaign backlink remained exact/followed before routine selection."
+        ]
+      },
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Distinct from product/listicle and local store guides; this is a BOFU decision guide by family, intensity, climate, skin testing and authenticity."
+      },
+      "serp_observations": [
+        "Spanish SERP intent was BOFU informational/commercial with guides about notes, occasions, intensity, authenticity, personality and beginner mistakes.",
+        "Comparable sources included Sephora España, Royal Oud, Private Riche, Parfum Orient, Kiwiku and Perfumes Sinfonía plus official Lattafa/Afnan references."
+      ],
+      "sources": [
+        "https://www.sephora.es/ideas-inspiracion/que-son-perfumes-arabes.html",
+        "https://privateriche.com/blog/guia-perfume-oriental-principiantes",
+        "https://www.kiwiku.com/blog_kiwiku/perfumeria-arabe/donde-comprar-perfumes-arabes-originales",
+        "https://lattafa.com/product/yara/"
+      ],
+      "asset": "src/assets/como-elegir-un-perfume-arabe.jpg"
+    },
+    {
+      "run_at": "2026-10-05T11:57:50+02:00",
+      "keyword": "dónde comprar perfumes árabes originales",
+      "priority": "Baja",
+      "slug": "donde-comprar-perfumes-arabes-originales",
+      "title": "Dónde comprar perfumes árabes originales: guía para evitar imitaciones y compras a ciegas",
+      "url": "https://begosmujerbonita.com/blog/donde-comprar-perfumes-arabes-originales/",
+      "status": "published",
+      "published_at": "2026-10-05T11:57:50+02:00",
+      "article_commit": "bda837b",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Existing Calpe/Alicante articles cover local shopping routes, and cómo elegir un perfume árabe covers olfactory decision-making. This article targets Spain-wide original-purchase routes, vendor checks, invoice/returns, marketplaces and authenticity signals."
+      },
+      "serp_observations": [
+        "Current Google ES-style SERP mixes commercial guides, ecommerce categories, specialized stores, marketplaces and authenticity checklists.",
+        "Comparable pages from Perfumes Sinfonía and Primor loaded successfully on 2026-10-05; several other stores observed in SERP blocked automated fetches with 403/429 and were not used as visible primary citations.",
+        "Intent is BOFU commercial/transactional: readers are deciding where to buy, how to avoid imitations and what signals matter before paying.",
+        "SERP gaps: few pages separate physical store, specialized ecommerce, marketplace and large retailer by risk; many use original/inspiration/equivalence loosely."
+      ],
+      "sources": [
+        "https://perfumessinfonia.com/",
+        "https://www.primor.eu/es_es/perfumes-arabes",
+        "https://armaf.com/",
+        "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_es.htm"
+      ],
+      "asset": "src/assets/donde-comprar-perfumes-arabes-originales.jpg",
+      "research_ledger": ".codex/research/donde-comprar-perfumes-arabes-originales-2026-10-05.yaml",
+      "image_prompt": "Original editorial still life of unbranded Arabic perfume bottles, neutral boxes, receipt, abstract verification card and blotters in a warm boutique setting; no logos, readable text, people, fake labels or watermarks.",
+      "verification": {
+        "status": "verified",
+        "checked_at": "2026-10-05T11:57:50+02:00",
+        "checks": [
+          "Magnific campaign article reverified before routine selection: public HTTP 200, expected H1/canonical and exactly one followed crear imágenes con IA link to https://www.magnific.com/ai/image-generator.",
+          "Local SEO/content audit passed: 2019 visible words, one H1, canonical, OG image, BlogPosting/WebPage/Breadcrumb/FAQ JSON-LD graph, featured image alt text, 4 external source links and real internal links.",
+          "Original featured image generated with built-in imagegen, optimized to JPEG 1672x941 and saved as src/assets/donde-comprar-perfumes-arabes-originales.jpg.",
+          "npm ci completed with existing fsevents allowScripts warning; npm run build completed successfully.",
+          "Local browser checks passed via served dist at desktop and mobile widths, with expected H1/date/featured image and no obvious first-viewport overlap.",
+          "Content commit bda837b pushed to origin/main.",
+          "Final custom-domain article URL returned HTTP 200 with expected H1 and canonical.",
+          "Featured image returned HTTP 200 image/jpeg and 414431 bytes.",
+          "Blog index linked the article and sitemap contained the article URL.",
+          "Live desktop and mobile Chrome screenshots rendered expected H1/date/featured image without obvious overlap.",
+          "Magnific campaign backlink remained exactly one followed link after deployment."
+        ],
+        "deployment_checks": [
+          "Attempt 1 verified article, H1, canonical, image, blog listing, sitemap and Magnific backlink on 2026-10-05."
+        ]
+      }
     }
   ]
 }
