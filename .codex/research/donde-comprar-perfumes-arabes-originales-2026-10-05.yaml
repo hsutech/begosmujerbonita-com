@@ -1,0 +1,75 @@
+article:
+  title: "Dónde comprar perfumes árabes originales: guía para evitar imitaciones y compras a ciegas"
+  keyword: "dónde comprar perfumes árabes originales"
+  intent: "Comercial / transaccional con apoyo informacional"
+  market: "Google ES / Calp y Alicante"
+  language: "Español"
+  checked_at: "2026-10-05"
+serp:
+  patterns:
+    - "La SERP española mezcla guías comerciales, categorías ecommerce, tiendas especializadas, marketplaces y artículos sobre autenticidad."
+    - "Kiwiku responde directamente a la búsqueda con señales de autenticidad: tienda identificable, precinto, lote, frasco, precio coherente y política de compra."
+    - "Perfumes Sinfonía y OrientFragance funcionan como comparables de tienda especializada con foco en marcas árabes y fichas de producto."
+    - "Primor aparece como gran retailer con categoría de perfumes árabes y filtros de marca, útil para comparar nombres y disponibilidad."
+    - "Maison Arabia, Fragarabic y Detalleshop cubren compra online, marcas frecuentes y recomendaciones para evitar compras impulsivas."
+  gaps:
+    - "Pocas páginas separan tienda física, ecommerce especializado, marketplace y gran retail por nivel de riesgo."
+    - "Muchas guías mencionan autenticidad, pero no explican cómo decidir cuando no puedes oler el perfume."
+    - "Falta una matriz de compra que conecte originalidad, devolución, factura, lote, clima mediterráneo y uso real."
+sources:
+  - url: "https://www.kiwiku.com/blog_kiwiku/perfumeria-arabe/donde-comprar-perfumes-arabes-originales"
+    kind: "competitor"
+    supports:
+      - "Intención directa de compra original y señales de autenticidad."
+  - url: "https://perfumessinfonia.com/"
+    kind: "competitor"
+    supports:
+      - "Ejemplo de tienda especializada con marcas árabes y compra online."
+  - url: "https://www.primor.eu/es_es/perfumes-arabes"
+    kind: "retailer"
+    supports:
+      - "Categoría de gran retail para comparar marcas, formatos y disponibilidad."
+  - url: "https://www.orientfragance.com/blogs/perfumes-arabes-blog"
+    kind: "competitor"
+    supports:
+      - "Cobertura editorial/comercial de familias olfativas y compra de perfumes árabes."
+  - url: "https://www.maisonarabia.com/"
+    kind: "competitor"
+    supports:
+      - "Tienda especializada en perfumes árabes y de Oriente Medio."
+  - url: "https://fragarabic.com/"
+    kind: "competitor"
+    supports:
+      - "Ecommerce especializado con marcas y familias árabes."
+  - url: "https://lattafa.com/"
+    kind: "official"
+    supports:
+      - "Referencia oficial de marca para verificar nombres y líneas antes de comprar."
+  - url: "https://armaf.com/"
+    kind: "official"
+    supports:
+      - "Referencia oficial accesible el 2026-10-05 para contrastar nomenclaturas de marca."
+  - url: "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees-returns/index_es.htm"
+    kind: "regulator"
+    supports:
+      - "Derechos generales de consumidores en compras online en la UE, con cautela sobre excepciones."
+claims:
+  verified:
+    - "El artículo se diferencia de 'perfumes árabes en Calpe' al cubrir compra original en España, online y física, no una ruta local."
+    - "Se diferencia de 'cómo elegir un perfume árabe' al priorizar dónde comprar, señales de vendedor y autenticidad, no familias olfativas."
+    - "No se inventan precios, stock, reseñas, experiencia propia ni tiendas autorizadas sin fuente pública."
+  external_observations:
+    - "Los resultados accesibles tratan la autenticidad desde señales comerciales, no desde un registro público universal de distribuidores."
+    - "La SERP favorece páginas de tienda y categorías, por lo que el artículo usa matriz de riesgo y checklist en lugar de ranking absoluto."
+  editorial_inferences:
+    - "La mejor ruta de compra depende de si el lector necesita probar, comparar precio, encontrar una referencia exacta o reducir riesgo de falsificación."
+    - "Factura, lote, caja, política de devolución y vendedor identificable son señales más útiles que una promesa de duración o un precio agresivo."
+  firsthand_evidence: []
+conflicts:
+  - "Algunas tiendas usan 'original', 'inspiración' y 'equivalencia' de forma comercial; el artículo exige que el vendedor lo distinga claramente."
+  - "El 2026-10-05, Kiwiku, OrientFragance, Fragarabic, Lattafa y Afnan devolvieron bloqueo automatizado 403/429 o similar a curl; se tratan como observaciones de SERP, no como fuentes visibles principales del artículo."
+must_not_claim:
+  - "No afirmar que una tienda concreta es distribuidor oficial si no hay fuente oficial verificable."
+  - "No prometer autenticidad por una sola señal como precinto o lote."
+  - "No inventar prueba de compra, stock, precio, devoluciones concretas o reseñas."
+  - "No presentar la imagen generada como foto de producto real."
