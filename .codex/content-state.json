@@ -1698,6 +1698,43 @@
           "Attempt 1 verified article, H1, canonical, image, blog listing, sitemap and Magnific backlink on 2026-10-05."
         ]
       }
+    },
+    {
+      "run_at": "2026-10-15T14:46:21.720550+02:00",
+      "keyword": "perfumes de Dubai originales vs imitaciones",
+      "priority": "Baja",
+      "slug": "perfumes-dubai-originales-vs-imitaciones",
+      "title": "Perfumes de Dubai originales vs imitaciones: 7 diferencias para elegir bien",
+      "url": "https://begosmujerbonita.com/blog/perfumes-dubai-originales-vs-imitaciones/",
+      "status": "validated_pending_publication",
+      "sources": [
+        "https://privateriche.com/blog/son-originales-los-perfumes-arabes",
+        "https://rosadoradaperfumes.com/diferencias-entre-perfumes-originales-e-imitaciones/",
+        "https://www.parfumerie-de-dubai.com/es/reconocer-una-autentica-fragancia-de-dubai/",
+        "https://ramaperfumes.cl/blogs/noticias/perfume-original-vs-inspirado-vs-imitacion-cual-es-la-diferencia",
+        "https://www.kiibok.com/article/perfumes-arabes-inspirados-que-son-por-que-son-legales-y-como-se-diferencian-de-una-copia-pirata",
+        "https://www.aemps.gob.es/cosmeticos/legislacion-sobre-productos-cosmeticos/",
+        "https://www.boe.es/buscar/doc.php?id=DOUE-L-2009-82517",
+        "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_es.htm",
+        "https://www.aemps.gob.es/cosmeticos/"
+      ],
+      "asset": "src/assets/perfumes-dubai-originales-vs-imitaciones.jpg",
+      "canibalization_check": {
+        "result": "clear",
+        "notes": "Prior guide covers buying channels/sellers; this page compares original/inspired/counterfeit meanings and purchase expectations; no store ranking or product equivalence ranking."
+      },
+      "verification": {
+        "status": "local_validated",
+        "checks": [
+          "npm ci and npm run build passed",
+          "No lint or test scripts configured",
+          "1819 words, 4 contextual internal links and 4 primary external links",
+          "One H1, correct canonical/OG, valid JSON-LD and FAQ parity",
+          "Featured original image caption discloses AI illustration",
+          "Blog listing and sitemap updated; no feed exists",
+          "Second editorial/SEO review complete"
+        ]
+      }
     }
   ]
 }

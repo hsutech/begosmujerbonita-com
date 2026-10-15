@@ -1,0 +1,72 @@
+{
+  "checked_at": "2026-10-15",
+  "keyword": "perfumes de Dubai originales vs imitaciones",
+  "market": "España, Calp/Alicante",
+  "sources": [
+    "https://privateriche.com/blog/son-originales-los-perfumes-arabes",
+    "https://rosadoradaperfumes.com/diferencias-entre-perfumes-originales-e-imitaciones/",
+    "https://www.parfumerie-de-dubai.com/es/reconocer-una-autentica-fragancia-de-dubai/",
+    "https://ramaperfumes.cl/blogs/noticias/perfume-original-vs-inspirado-vs-imitacion-cual-es-la-diferencia",
+    "https://www.kiibok.com/article/perfumes-arabes-inspirados-que-son-por-que-son-legales-y-como-se-diferencian-de-una-copia-pirata"
+  ],
+  "serp": {
+    "intent": "Comparativa informacional con decisión de compra; tiendas y blogs comerciales",
+    "limitations": "Search is not a geolocated Google ranking export; international Spanish results used as comparables. No exact ranking claimed.",
+    "observations": [
+      "Private Riche: compact ~600-900 words, brand authorship, headings/FAQ/product images and cards, no prominent TOC; categorical legal and longevity claims not reused.",
+      "Rosa Dorada: medium ~900-1300 words, named author nicolas, dated, comparison table/FAQs/images, commercial claims of similarity and hours not reused.",
+      "Parfumerie de Dubai: medium ~800-1300 words, brand byline, table and visual/olfactory checks; unsupported authentication guarantees excluded.",
+      "Rama: long ~1200-1800 words, shop editorial, definition/table/tester sections and FAQs; separates identity and similarity.",
+      "Kiibok: short ~400-700 words, shop editorial, illustration and comparison bullets, no TOC; legal absolutes and duration excluded."
+    ],
+    "gaps": [
+      "Separate identity, scent preference and authenticity evidence",
+      "Avoid duration/packaging as definitive tests",
+      "Apply EU cosmetic context without blanket legal claims"
+    ]
+  },
+  "brief": {
+    "format": "7-point comparison + table + 3 cases + 4 FAQs",
+    "target_words": "1800-2200",
+    "cannibalization": "Prior guide covers buying channels/sellers; this page compares original/inspired/counterfeit meanings and purchase expectations; no store ranking or product equivalence ranking.",
+    "video": "Omitted: no product test or authentication demonstration that adds reliable evidence."
+  },
+  "claims": {
+    "firsthand": [],
+    "verified": [
+      "EU cosmetics framework and labeling categories",
+      "EU consumer remedies distinction"
+    ],
+    "must_not_claim": [
+      "All inspired perfumes are legal",
+      "All Dubai products manufactured in Dubai",
+      "Hours or similarity percentages",
+      "Bottle image certifies authenticity"
+    ]
+  },
+  "image": {
+    "tool": "built-in imagegen",
+    "prompt": "Paper collage/gouache, three unbranded bottles, blank packaging, blotters, magnifying glass; no logos or certification seals.",
+    "asset": "src/assets/perfumes-dubai-originales-vs-imitaciones.jpg"
+  },
+  "primary_sources": [
+    "https://www.aemps.gob.es/cosmeticos/legislacion-sobre-productos-cosmeticos/",
+    "https://www.boe.es/buscar/doc.php?id=DOUE-L-2009-82517",
+    "https://europa.eu/youreurope/citizens/consumers/shopping/guarantees/index_es.htm",
+    "https://www.aemps.gob.es/cosmeticos/"
+  ],
+  "review": {
+    "second_pass": "Editorial/SEO reread completed separately after draft. Corrected inaccessible EUR-Lex to BOE; added fourth contextual internal link; no first-person test claims, rankings or prices; FAQ schema matches visible text.",
+    "checks": [
+      "one H1",
+      "canonical and OG match",
+      "JSON-LD valid",
+      "all local links resolve",
+      "1819 words",
+      "no feed in repository"
+    ],
+    "limitations": [
+      "Workbook Calp location conflicts with existing Madrid footer: no unverified local address added and unrelated footer preserved."
+    ]
+  }
+}
