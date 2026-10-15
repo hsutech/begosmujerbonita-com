@@ -1706,7 +1706,7 @@
       "slug": "perfumes-dubai-originales-vs-imitaciones",
       "title": "Perfumes de Dubai originales vs imitaciones: 7 diferencias para elegir bien",
       "url": "https://begosmujerbonita.com/blog/perfumes-dubai-originales-vs-imitaciones/",
-      "status": "validated_pending_publication",
+      "status": "published",
       "sources": [
         "https://privateriche.com/blog/son-originales-los-perfumes-arabes",
         "https://rosadoradaperfumes.com/diferencias-entre-perfumes-originales-e-imitaciones/",
@@ -1724,7 +1724,7 @@
         "notes": "Prior guide covers buying channels/sellers; this page compares original/inspired/counterfeit meanings and purchase expectations; no store ranking or product equivalence ranking."
       },
       "verification": {
-        "status": "local_validated",
+        "status": "verified",
         "checks": [
           "npm ci and npm run build passed",
           "No lint or test scripts configured",
@@ -1732,9 +1732,19 @@
           "One H1, correct canonical/OG, valid JSON-LD and FAQ parity",
           "Featured original image caption discloses AI illustration",
           "Blog listing and sitemap updated; no feed exists",
-          "Second editorial/SEO review complete"
-        ]
-      }
+          "Second editorial/SEO review complete",
+          "Public HTTP 200, expected H1, canonical and featured image",
+          "Featured image HTTP 200 image/jpeg, JPEG signature",
+          "Blog and sitemap contain article URL",
+          "Public desktop 1366x1000 and mobile 390x844 screenshots visually reviewed",
+          "Magnific exact anchor and destination, exactly one followed link verified",
+          "First public verification attempt passed"
+        ],
+        "checked_at": "2026-10-16T00:32:32.230517+02:00",
+        "workflow": "38737248820 completed_success"
+      },
+      "published_at": "2026-10-16T00:32:32.230517+02:00",
+      "article_commit": "9d5fadaf1b7566936b77b6706629409cfa2c8878"
     }
   ]
 }
