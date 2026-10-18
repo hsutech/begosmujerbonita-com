@@ -1,0 +1,59 @@
+{
+  "checked_at": "2026-10-18T11:25:14.599287+00:00",
+  "remote_base": "00d43d0",
+  "decision": "queue_complete_no_new_article",
+  "workbook_topics": 30,
+  "published_topics": 27,
+  "skipped_topics": 3,
+  "campaign": {
+    "url": "https://begosmujerbonita.com/blog/crear-fondos-conceptos-visuales-ia-campanas-perfumes/",
+    "http_status": 200,
+    "h1": "Cómo crear fondos y conceptos visuales con IA para campañas de perfumes",
+    "canonical_verified": true,
+    "anchor": "crear imágenes con IA",
+    "destination": "https://www.magnific.com/ai/image-generator",
+    "exact_followed_links": 1
+  },
+  "decisions": [
+    {
+      "keyword": "Begosmujerbonita opiniones",
+      "priority": "Baja",
+      "status": "skipped",
+      "reason": "Insufficient verified identity and review evidence: workbook targets Begosmujerbonita Perfums Dubai in Calpe; current homepage identifies Begos Mujer Bonita at Calle Real 28, Torrejón de la Calzada, Madrid. Nicanora lists Av. Gabriel Miró 38, Calpe and internally inconsistent ratings/counts. Cannot attribute reviews or reputation across these identities without primary confirmation. Revisit after business identity is reconciled.",
+      "sources": [
+        "https://begosmujerbonita.com/",
+        "https://nicanora.es/tienda-ropa/begosmujerbonita-perfums-dubai/"
+      ],
+      "run_at": "2026-10-18T11:25:14.599287+00:00",
+      "research_ledger": ".codex/research/queue-review-2026-10-18.json"
+    },
+    {
+      "keyword": "alternativas a perfumes árabes caros",
+      "priority": "Baja",
+      "status": "skipped",
+      "reason": "Cannibalization: current Spanish query results center on economical Arabic fragrances, alternatives to luxury/niche and equivalences. Existing live guides mejores-perfumes-arabes-baratos and mejores-equivalencias-de-perfumes-arabes already serve this purchase decision with product comparisons, scent-family alternatives, budget and blind-buy checks. No sufficiently distinct broad article warranted by this workbook keyword.",
+      "sources": [
+        "https://compraclave.net/guias/fragancias-arabes-dupes-2026/",
+        "https://daytemis.com/perfumes-arabes-que-huelen-como-los-de-disenador/",
+        "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-baratos/",
+        "https://begosmujerbonita.com/blog/mejores-equivalencias-de-perfumes-arabes/"
+      ],
+      "run_at": "2026-10-18T11:25:14.599287+00:00",
+      "research_ledger": ".codex/research/queue-review-2026-10-18.json"
+    }
+  ],
+  "serp_notes": [
+    "Brand query: local directory/reputation intent; Nicanora fetched in full, no attributable primary customer-review dataset. Homepage and workbook identity conflict.",
+    "Alternatives query: commercial lists, designer/niche equivalences, comparison tables and FAQs. CompraClave and Daytemis fetched; Daytemis is Peru context only, not Spanish pricing evidence. Existing site equivalence article surfaced in results.",
+    "Reviewed repository and fetched both live overlapping articles. No article drafted; product claims, prices and ratings from competitors were not adopted."
+  ],
+  "fetch_limits": [
+    "AlicanteTop and PerfumesDupes returned cache misses; not used as fetched evidence."
+  ],
+  "checks": [
+    "Full XLSX parsed (all four sheets)",
+    "30 keywords reconciled against state",
+    "Campaign HTTP 200, expected H1, canonical and exact followed backlink",
+    "Only state and research ledger modified; no content, assets or deployment code changed"
+  ]
+}

@@ -1745,6 +1745,32 @@
       },
       "published_at": "2026-10-16T00:32:32.230517+02:00",
       "article_commit": "9d5fadaf1b7566936b77b6706629409cfa2c8878"
+    },
+    {
+      "keyword": "Begosmujerbonita opiniones",
+      "priority": "Baja",
+      "status": "skipped",
+      "reason": "Insufficient verified identity and review evidence: workbook targets Begosmujerbonita Perfums Dubai in Calpe; current homepage identifies Begos Mujer Bonita at Calle Real 28, Torrejón de la Calzada, Madrid. Nicanora lists Av. Gabriel Miró 38, Calpe and internally inconsistent ratings/counts. Cannot attribute reviews or reputation across these identities without primary confirmation. Revisit after business identity is reconciled.",
+      "sources": [
+        "https://begosmujerbonita.com/",
+        "https://nicanora.es/tienda-ropa/begosmujerbonita-perfums-dubai/"
+      ],
+      "run_at": "2026-10-18T11:25:14.599287+00:00",
+      "research_ledger": ".codex/research/queue-review-2026-10-18.json"
+    },
+    {
+      "keyword": "alternativas a perfumes árabes caros",
+      "priority": "Baja",
+      "status": "skipped",
+      "reason": "Cannibalization: current Spanish query results center on economical Arabic fragrances, alternatives to luxury/niche and equivalences. Existing live guides mejores-perfumes-arabes-baratos and mejores-equivalencias-de-perfumes-arabes already serve this purchase decision with product comparisons, scent-family alternatives, budget and blind-buy checks. No sufficiently distinct broad article warranted by this workbook keyword.",
+      "sources": [
+        "https://compraclave.net/guias/fragancias-arabes-dupes-2026/",
+        "https://daytemis.com/perfumes-arabes-que-huelen-como-los-de-disenador/",
+        "https://begosmujerbonita.com/blog/mejores-perfumes-arabes-baratos/",
+        "https://begosmujerbonita.com/blog/mejores-equivalencias-de-perfumes-arabes/"
+      ],
+      "run_at": "2026-10-18T11:25:14.599287+00:00",
+      "research_ledger": ".codex/research/queue-review-2026-10-18.json"
     }
   ]
 }
