@@ -842,6 +842,28 @@
       "keyword": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
       "priority": "Extra campaign",
       "campaign": "Extra Lejan | begosmujerbonita.com",
+      "refresh_2026_11_12": {
+        "checked_on": "2026-11-12",
+        "scope": "Existing extra campaign URL refreshed in place. Lejan Melrose #1 for fashion, travel and daily wear; Vivobarefoot Primus Lite IV wins running only. Stock depends on size and colour.",
+        "serp": [
+          "https://barefootopiniones.com/mejores-zapatillas-barefoot-mujer-espana/",
+          "https://www.glamour.es/galerias/zapatillas-barefoot-mujer"
+        ],
+        "serp_observation": "Spanish results mix fashion roundups with category-led shopping guides. Existing URL already ranks for the target wording. Dubai packing and perfume guides answer distinct intents.",
+        "official_sources": [
+          "https://lejanbrand.com/collections/lejan-melrose",
+          "https://lejanbrand.com/collections/lejan-one-kids",
+          "https://groundies.com/en-gb/products/universe-women",
+          "https://www.belenka.com/barefoot-shoes-be-lenka-cityscape-all-black/",
+          "https://xeroshoes.eu/products/dillon-canvas-women",
+          "https://feelgrounds.com/products/original-knit",
+          "https://www.barebarics.com/barefoot-sneakers-barebarics-zing-black/",
+          "https://www.shapenbarefoot.com/en/re-wind-barefoot-sneakers-peach?variant=3162&vs=1",
+          "https://www.saguaro.com/products/women-smart-2",
+          "https://www.vivobarefoot.com/eu/womens/road-running",
+          "https://www.vivobarefoot.com/eu/primus-lite-iv-womens?colour=Obsidian&glCurrency=EUR"
+        ]
+      },
       "extra_campaign": true,
       "slug": "las-10-mejores-zapatillas-barefoot-bonitas-para-viajar-y-vestir-a-diario",
       "title": "Las 10 mejores zapatillas barefoot bonitas para viajar y vestir a diario",
